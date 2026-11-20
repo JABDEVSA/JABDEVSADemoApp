@@ -1,5 +1,13 @@
 # Project history
 
+## 2026-11-20 +02:00 — public repository created and source pushed
+- Created public repository https://github.com/JABDEVSA/JABDEVSADemoApp and pushed initial source commit ca0c211 on jab/data-detective. Git author and committer timestamps are explicitly +02:00. Public no-reply author identity is used; no private email or access token was published.
+- GitHub API confirmed public visibility, default branch jab/data-detective and the exact remote source commit matching local HEAD. The initial empty main default was replaced; no main/master branch ref was created. No merge to an integration/production branch occurred.
+- Existing named JABDEVSA CLI keyring credential and existing SSH key/pinned host entries were sufficient. No new sign-in, credential rotation or access grant was needed. The earlier default-profile conclusion was corrected. Tokens remained in process memory only.
+- Reused unchanged 13 Python tests, 9 API tests, TypeScript and browser evidence. This turn changed publication documentation and ignore patterns only; no app code, database, runtime, build or deployment changes. Database, local config, dependency jars, classes, node_modules and runtime logs remain excluded from Git.
+- Publication receipt: evidence/github-publication.json. This receipt/history update is published in a follow-up documentation commit on the same branch. Source publication is satisfied; CTO visual acceptance and any future live application deployment remain separate.
+- Next action: CTO can share the public repository URL for code review. Future work stays on the existing working branch, preserves the UI baseline, and requires explicit authority for integration or deployment.
+
 ## 2026-11-20 +02:00 — publication resumed with existing profile
 - CTO reaffirmed: create the public repository and push. Existing access was recovered without sign-in by explicitly selecting JABDEVSA in the Windows GitHub CLI credential keyring; authenticated API identity confirmed JABDEVSA, public account ID 42825643. No token was printed or written to this repository. Earlier default-account checks were incomplete, not evidence that the saved profile was unavailable.
 - Source publication only, on jab/data-detective; no merge or application deployment. Reuse existing local functional evidence. Review candidate files, commit with public no-reply identity and explicit +02:00 Git dates, create/reuse the requested public repository, and push using existing SSH access. Publication results will be recorded after actual success.

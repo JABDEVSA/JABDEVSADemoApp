@@ -1,0 +1,12 @@
+{
+  "recordedAt": "2026-11-20T16:34:27.3174160+02:00",
+  "repository": "JABDEVSA/JABDEVSADemoApp",
+  "url": "https://github.com/JABDEVSA/JABDEVSADemoApp",
+  "visibility": "public",
+  "defaultBranch": "jab/data-detective",
+  "sourceCommit": "ca0c2117fa6596b83c918a7bd421adf93d56953c",
+  "sourcePush": "succeeded",
+  "remoteSourceMatches": true,
+  "authentication": "Existing named JABDEVSA credential and existing SSH key; no sign-in",
+  "deployment": "not requested or performed"
+}

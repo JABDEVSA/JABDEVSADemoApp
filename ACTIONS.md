@@ -1,6 +1,6 @@
 # Action and evidence ledger
 
-Updated 2026-11-20 +02:00. Scope: local Data Detective with Java API, React/TypeScript, Python analysis, SQLite, login and registration. Baseline: empty folder. Source: local jab/data-detective working tree, no commits or remote; hashes in evidence/source-manifest.json. API 127.0.0.1:5088; frontend 127.0.0.1:5188; local SQLite/Python.
+Updated 2026-11-20 +02:00. Scope: Data Detective with Java API, React/TypeScript, Python analysis, SQLite, login and registration; CTO subsequently authorised public GitHub source publication. Baseline: empty folder. Source published on jab/data-detective at https://github.com/JABDEVSA/JABDEVSADemoApp; initial source commit ca0c211. API 127.0.0.1:5088; frontend 127.0.0.1:5188; local SQLite/Python.
 
 | Requirement | Status | Actual evidence / remaining action |
 |---|---|---|
@@ -18,7 +18,7 @@ Updated 2026-11-20 +02:00. Scope: local Data Detective with Java API, React/Type
 | History, restart and handoff | RECORDED | README, HISTORY, evidence/verification.md; local API/frontend left running |
 | Full CTO visual/functional acceptance | OPEN | CTO to review initial demo and provide feedback |
 | Production security/accessibility/load audit | NOT CLAIMED | Outside bounded demo checks |
-| Public GitHub source publication | OPEN / SIGN-IN ATTEMPT STOPPED | CTO authorised public JABDEVSA source publication, then declined sign-in and instructed stopping that attempt. Login tab closed and CLI prompt cancelled. Local README/ignore preparation only; no remote/commit/push/repository creation. Use existing authorised profile only if resumed |
+| Public GitHub source publication | PUBLISHED | Public JABDEVSA/JABDEVSADemoApp created; ca0c211 pushed through existing SSH key; API confirmed exact remote commit and public visibility. Default branch jab/data-detective. Existing named keyring credential used; no sign-in. See evidence/github-publication.json |
 | Merge and deployment | NOT REQUESTED | No merge or deployment authority |
 
 Exact next action: CTO opens http://127.0.0.1:5188, creates a local account and tries a sample or CSV. Future agent: read current scope/instructions/history first; preserve this baseline; repeat only changed/uncovered checks. Do not treat the local functional results as permission to deploy or as wider system-wide compliance.
