@@ -20,3 +20,13 @@ dist/
 *.pem
 *.pfx
 *.p12
+
+# Local project records
+/AGENTS.md
+/ACTIONS.md
+/HISTORY.md
+/Project Init.md
+/DESIGN.md
+/evidence/*.md
+/evidence/*.json
+/evidence/*.txt

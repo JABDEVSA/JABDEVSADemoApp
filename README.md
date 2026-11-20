@@ -23,7 +23,7 @@ Prerequisites: Java 17+ (`java` and `javac`), Node.js and pnpm, and Python 3.10+
 5. Run `pnpm dev` in another terminal. Open `http://127.0.0.1:5188`. Vite proxies `/api` to Java.
 6. Create your account, choose a sample or upload a CSV, inspect it, then preview cleaning and download the result.
 
-The active local session uses a bundled Python executable recorded only in ignored local settings. Java source is compiled to ignored api/classes. Dependency jars live in ignored api/lib. SQLite creates ignored api/data/detective.db. Runtime logs live in ignored .runtime. The servers started during implementation are hidden processes, with their launcher IDs in .runtime/processes.json.
+Java source is compiled to ignored `api/classes`. Dependency jars live in ignored `api/lib`. SQLite creates ignored `api/data/detective.db`. Local settings and runtime logs are excluded from version control.
 
 ## Check locally
 
@@ -31,7 +31,7 @@ The active local session uses a bundled Python executable recorded only in ignor
 - `python -m unittest discover -s python -p "test_*.py" -v`: analysis tests.
 - With the API running: `python -m unittest discover -s tests -p "test_*.py" -v`: real SQLite/API integration tests. The tests create two unique accounts and remove only those exact account IDs and their sessions/datasets.
 
-Replace `python` with the configured Python executable if needed. Test results and browser evidence are recorded in evidence/verification.md.
+Replace `python` with the configured Python executable if needed. The test suites cover analysis, authentication, dataset isolation, validation, cleaning and export.
 
 ## Structure
 
@@ -39,12 +39,11 @@ Replace `python` with the configured Python executable if needed. Test results a
 |---|---|
 | src/main.tsx / src/App.tsx | Stable React root; typed views, authentication dialogs and interaction state |
 | src/types.ts / src/api.ts | Shared UI data contracts and POST client |
-| src/styles.css / DESIGN.md | Responsive visual baseline and design decisions |
+| src/styles.css | Responsive layout, typography and component styling |
 | api/src/Main.java | Java HTTP server, authentication, ownership, persistence orchestration and bounded Python execution |
 | python/engine.py | Strict CSV parsing, profiling, IQR outliers, aggregation, search/sort/page, cleaning and spreadsheet-safe export |
 | database/schema.sql | Independent users, sessions and datasets tables |
 | database/queries | Individual parameterised SQL scripts, including explicitly named test fixture cleanup/read scripts |
-| HISTORY.md / ACTIONS.md | Scope, evidence, remaining work and handoff |
 
 ## Design decisions and limits
 
@@ -52,8 +51,8 @@ Replace `python` with the configured Python executable if needed. Test results a
 - Passwords use salted PBKDF2-HMAC-SHA256 with 600,000 iterations. Sessions use random opaque cookies and only a SHA-256 token hash is persisted. Cookies are HttpOnly, SameSite=Strict and expire after 24 hours. The local loopback HTTP demo uses SecureCookies=false; a future HTTPS deployment requires that setting to be true.
 - Only POST JSON requests are accepted. Browser origins are explicitly allowlisted. Dataset ownership is checked for every read, preview and export.
 - Login/register requests have a 20-attempt/5-minute per-address limit. Analysis has four worker slots, a 25-second timeout and bounded input. This is a local demo, not production infrastructure.
-- SQLite explicitly replaces the user's general MSSQL requirement. Because SQLite has no stored procedures, individual SQL scripts are used instead; application source contains no SQL statements.
+- SQLite operations use individual parameterised SQL scripts; application source contains no SQL statements.
 - Every new application timestamp is written with an explicit +02:00 offset using Africa/Johannesburg; displayed times use the same named timezone. CSV date-only values are preserved.
 - Original CSVs remain unchanged. Exports prefix formula-like strings for safer spreadsheet use. Outliers are never automatically removed. Missing-value replacement is explicitly user selected and may change inferred column types.
-- Limits: 1 MB UTF-8 CSV, 20,000 rows, 80 columns, 30 datasets per account. No password reset, email verification, multi-user collaboration or reviewer-rating system was requested or added.
-- Source publication, deployment and CTO visual acceptance are separate from local functional evidence. Public GitHub publication is authorised; no live application deployment is included.
+- Limits: 1 MB UTF-8 CSV, 20,000 rows, 80 columns, 30 datasets per account. Password reset, email verification, multi-user collaboration and reviewer ratings are not implemented.
+- This is a locally runnable demonstration. No live application deployment is included.
