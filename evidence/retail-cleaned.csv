@@ -1,0 +1,1179 @@
+order_id,date,category,region,revenue,quantity,customer
+ORD-0001,2026-01-01,Electronics,,98500,4,Customer 001
+ORD-0002,2026-01-02,Home & living,Western Cape,3566.69,2,Customer 002
+ORD-0003,2026-01-03,Outdoor,Gauteng,259.45,4,Customer 003
+ORD-0004,2026-01-04,Home & living,Gauteng,2746.63,7,Customer 004
+ORD-0005,2026-01-05,Home & living,Eastern Cape,2877.76,1,Customer 005
+ORD-0006,2026-01-06,Home & living,Eastern Cape,1712.37,3,Customer 006
+ORD-0007,2026-01-07,Home & living,KwaZulu-Natal,598.34,7,Customer 007
+ORD-0008,2026-01-08,Electronics,KwaZulu-Natal,4086.27,5,Customer 008
+ORD-0009,2026-01-09,Electronics,Eastern Cape,2629.55,7,Customer 009
+ORD-0010,2026-01-10,Electronics,KwaZulu-Natal,4001.61,6,Customer 010
+ORD-0011,2026-01-11,Home & living,Gauteng,334.46,4,Customer 011
+ORD-0012,2026-01-12,Fashion,Gauteng,4122.89,2,Customer 012
+ORD-0013,2026-01-13,Outdoor,KwaZulu-Natal,2241.96,6,Customer 013
+ORD-0014,2026-01-14,Home & living,KwaZulu-Natal,1782.67,5,Customer 014
+ORD-0015,2026-01-15,Electronics,Western Cape,2619.77,4,Customer 015
+ORD-0016,2026-01-16,Home & living,Eastern Cape,1895.85,4,Customer 016
+ORD-0017,2026-01-17,Fashion,Gauteng,1191.94,1,Customer 017
+ORD-0018,2026-01-18,Fashion,Eastern Cape,1373.03,4,Customer 018
+ORD-0019,2026-01-19,Fashion,Western Cape,3187.45,7,Customer 019
+ORD-0020,2026-01-20,Outdoor,Western Cape,1359.64,4,Customer 020
+ORD-0021,2026-01-21,Fashion,Eastern Cape,4321.81,7,Customer 021
+ORD-0022,2026-01-22,Fashion,Western Cape,4787.48,3,Customer 022
+ORD-0023,2026-01-23,Outdoor,Gauteng,3657.06,2,Customer 023
+ORD-0024,2026-01-24,Home & living,Western Cape,3826.93,7,Customer 024
+ORD-0025,2026-01-25,Electronics,Eastern Cape,1905.98,8,Customer 025
+ORD-0026,2026-01-26,Fashion,Gauteng,3303.73,2,Customer 026
+ORD-0027,2026-01-27,Fashion,KwaZulu-Natal,642.06,7,Customer 027
+ORD-0028,2026-01-28,Home & living,Eastern Cape,135.19,5,Customer 028
+ORD-0029,2026-01-29,Home & living,Gauteng,4194.03,5,Customer 029
+ORD-0030,2026-01-30,Home & living,Western Cape,1869.92,3,Customer 030
+ORD-0031,2026-01-31,Electronics,KwaZulu-Natal,2406.67,2,Customer 031
+ORD-0032,2026-02-01,Fashion,,1240.64,4,Customer 032
+ORD-0033,2026-02-02,Electronics,Gauteng,3545.33,2,Customer 033
+ORD-0034,2026-02-03,Home & living,Western Cape,3207.63,3,Customer 034
+ORD-0035,2026-02-04,Fashion,Eastern Cape,4633.22,4,Customer 035
+ORD-0036,2026-02-05,Fashion,Eastern Cape,4777.30,6,Customer 036
+ORD-0037,2026-02-06,Outdoor,Eastern Cape,686.30,4,Customer 037
+ORD-0038,2026-02-07,Electronics,KwaZulu-Natal,218.44,4,Customer 038
+ORD-0039,2026-02-08,Home & living,Gauteng,452.25,1,Customer 039
+ORD-0040,2026-02-09,Home & living,Gauteng,4357.37,6,Customer 040
+ORD-0041,2026-02-10,Electronics,Western Cape,1423.27,8,Customer 041
+ORD-0042,2026-02-11,Home & living,Western Cape,3505.29,8,Customer 042
+ORD-0043,2026-02-12,Home & living,Eastern Cape,3899.09,4,Customer 043
+ORD-0044,2026-02-13,Electronics,Gauteng,,6,Customer 044
+ORD-0045,2026-02-14,Outdoor,Eastern Cape,2305.68,1,Customer 045
+ORD-0046,2026-02-15,Electronics,Gauteng,2004.27,6,Customer 046
+ORD-0047,2026-02-16,Electronics,Western Cape,1016.64,8,Customer 047
+ORD-0048,2026-02-17,Home & living,Eastern Cape,978.72,8,Customer 048
+ORD-0049,2026-02-18,Home & living,Gauteng,2193.85,2,Customer 049
+ORD-0050,2026-02-19,Electronics,Gauteng,4654.90,4,Customer 050
+ORD-0051,2026-02-20,Home & living,Eastern Cape,2392.80,4,Customer 051
+ORD-0052,2026-02-21,Outdoor,Gauteng,890.50,1,Customer 052
+ORD-0053,2026-02-22,Outdoor,KwaZulu-Natal,4456.10,8,Customer 053
+ORD-0055,2026-02-24,Home & living,Western Cape,1508.59,1,Customer 055
+ORD-0056,2026-02-25,Electronics,KwaZulu-Natal,387.53,8,Customer 056
+ORD-0057,2026-02-26,Home & living,Gauteng,4616.45,2,Customer 057
+ORD-0058,2026-02-27,Home & living,Gauteng,2904.76,4,Customer 058
+ORD-0059,2026-02-28,Outdoor,Gauteng,4526.67,4,Customer 059
+ORD-0060,2026-03-01,Electronics,Gauteng,2081.97,6,Customer 060
+ORD-0061,2026-03-02,Fashion,Western Cape,3254.32,6,Customer 061
+ORD-0062,2026-03-03,Home & living,KwaZulu-Natal,1972.28,5,Customer 062
+ORD-0063,2026-03-04,Outdoor,,4467.81,2,Customer 063
+ORD-0064,2026-03-05,Electronics,Eastern Cape,3027.03,2,Customer 064
+ORD-0065,2026-03-06,Electronics,Western Cape,2487.54,3,Customer 065
+ORD-0066,2026-03-07,Fashion,Gauteng,4234.98,6,Customer 066
+ORD-0067,2026-03-08,Fashion,Western Cape,2170.70,5,Customer 067
+ORD-0068,2026-03-09,Electronics,KwaZulu-Natal,4480.62,2,Customer 068
+ORD-0069,2026-03-10,Home & living,KwaZulu-Natal,660.21,2,Customer 069
+ORD-0070,2026-03-11,Home & living,KwaZulu-Natal,1438.62,4,Customer 070
+ORD-0071,2026-03-12,Fashion,Western Cape,3337.49,5,Customer 071
+ORD-0072,2026-03-13,Outdoor,KwaZulu-Natal,4356.97,1,Customer 072
+ORD-0073,2026-03-14,Electronics,Eastern Cape,4001.35,1,Customer 073
+ORD-0074,2026-03-15,Electronics,KwaZulu-Natal,3728.84,5,Customer 074
+ORD-0075,2026-03-16,Home & living,Eastern Cape,2701.86,7,Customer 075
+ORD-0076,2026-03-17,Electronics,Gauteng,472.14,3,Customer 076
+ORD-0077,2026-03-18,Electronics,KwaZulu-Natal,2846.14,3,Customer 077
+ORD-0078,2026-03-19,Outdoor,Western Cape,315.76,6,Customer 078
+ORD-0079,2026-03-20,Electronics,KwaZulu-Natal,1103.16,4,Customer 079
+ORD-0080,2026-03-21,Electronics,KwaZulu-Natal,3770.94,7,Customer 080
+ORD-0081,2026-03-22,Home & living,Western Cape,4166.35,3,Customer 081
+ORD-0082,2026-03-23,Outdoor,Gauteng,959.41,6,Customer 082
+ORD-0083,2026-03-24,Outdoor,Western Cape,1368.65,2,Customer 083
+ORD-0084,2026-03-25,Outdoor,Gauteng,4138.22,4,Customer 084
+ORD-0085,2026-03-26,Home & living,Eastern Cape,1756.40,4,Customer 085
+ORD-0086,2026-03-27,Home & living,Gauteng,3208.96,7,Customer 086
+ORD-0087,2026-03-28,Fashion,KwaZulu-Natal,,5,Customer 087
+ORD-0088,2026-03-29,Fashion,Eastern Cape,3300.14,6,Customer 088
+ORD-0089,2026-03-30,Electronics,Gauteng,4224.54,5,Customer 089
+ORD-0090,2026-03-31,Home & living,KwaZulu-Natal,299.04,7,Customer 090
+ORD-0091,2026-04-01,Fashion,KwaZulu-Natal,2162.32,2,Customer 091
+ORD-0092,2026-04-02,Outdoor,Western Cape,1312.10,7,Customer 092
+ORD-0093,2026-04-03,Electronics,Western Cape,1824.56,2,Customer 093
+ORD-0094,2026-04-04,Fashion,,3224.65,2,Customer 094
+ORD-0095,2026-04-05,Fashion,KwaZulu-Natal,3241.06,6,Customer 095
+ORD-0096,2026-04-06,Outdoor,KwaZulu-Natal,2714.65,4,Customer 096
+ORD-0097,2026-04-07,Outdoor,Eastern Cape,3289.85,3,Customer 097
+ORD-0098,2026-04-08,Fashion,Eastern Cape,98500,1,Customer 098
+ORD-0099,2026-04-09,Fashion,KwaZulu-Natal,1103.65,6,Customer 099
+ORD-0100,2026-04-10,Outdoor,Eastern Cape,2189.31,4,Customer 100
+ORD-0101,2026-04-11,Outdoor,Western Cape,3203.42,5,Customer 101
+ORD-0102,2026-04-12,Fashion,Gauteng,3950.22,4,Customer 102
+ORD-0103,2026-04-13,Fashion,Western Cape,3894.71,3,Customer 103
+ORD-0104,2026-04-14,Electronics,Gauteng,1265.86,8,Customer 104
+ORD-0105,2026-04-15,Electronics,Eastern Cape,2059.58,4,Customer 105
+ORD-0106,2026-04-16,Outdoor,Eastern Cape,1990.38,3,Customer 106
+ORD-0108,2026-04-18,Home & living,Eastern Cape,355.02,4,Customer 108
+ORD-0109,2026-04-19,Electronics,Eastern Cape,744.03,8,Customer 109
+ORD-0110,2026-04-20,Fashion,Eastern Cape,2987.21,7,Customer 110
+ORD-0111,2026-04-21,Outdoor,Western Cape,3600.31,8,Customer 111
+ORD-0112,2026-04-22,Outdoor,KwaZulu-Natal,3638.32,5,Customer 112
+ORD-0113,2026-04-23,Outdoor,Western Cape,1405.12,2,Customer 113
+ORD-0114,2026-04-24,Fashion,Western Cape,1391.63,6,Customer 114
+ORD-0115,2026-04-25,Electronics,Western Cape,825.89,7,Customer 115
+ORD-0116,2026-04-26,Home & living,Western Cape,420.59,7,Customer 116
+ORD-0117,2026-04-27,Fashion,Eastern Cape,2065.82,4,Customer 117
+ORD-0118,2026-04-28,Outdoor,Eastern Cape,4354.64,1,Customer 118
+ORD-0119,2026-04-29,Outdoor,Eastern Cape,147.59,6,Customer 119
+ORD-0120,2026-04-30,Fashion,Eastern Cape,4114.14,7,Customer 120
+ORD-0121,2026-05-01,Home & living,Eastern Cape,1146.89,7,Customer 121
+ORD-0122,2026-05-02,Outdoor,Gauteng,1939.85,7,Customer 122
+ORD-0123,2026-05-03,Home & living,Eastern Cape,4423.45,1,Customer 123
+ORD-0124,2026-05-04,Outdoor,Gauteng,512.87,7,Customer 124
+ORD-0125,2026-05-05,Home & living,,970.49,5,Customer 125
+ORD-0126,2026-05-06,Outdoor,KwaZulu-Natal,1110.57,6,Customer 126
+ORD-0127,2026-05-07,Fashion,Eastern Cape,1422.24,7,Customer 127
+ORD-0128,2026-05-08,Fashion,Gauteng,2321.04,1,Customer 128
+ORD-0129,2026-05-09,Fashion,Western Cape,3162.67,1,Customer 129
+ORD-0130,2026-05-10,Electronics,Western Cape,,1,Customer 130
+ORD-0131,2026-05-11,Home & living,Western Cape,710.71,2,Customer 131
+ORD-0132,2026-05-12,Home & living,Eastern Cape,3393.50,6,Customer 132
+ORD-0133,2026-05-13,Home & living,Gauteng,3760.07,3,Customer 133
+ORD-0134,2026-05-14,Fashion,Gauteng,2828.24,5,Customer 134
+ORD-0135,2026-05-15,Outdoor,Eastern Cape,4526.08,4,Customer 135
+ORD-0136,2026-05-16,Electronics,Western Cape,596.90,5,Customer 136
+ORD-0137,2026-05-17,Electronics,Gauteng,1744.91,7,Customer 137
+ORD-0138,2026-05-18,Fashion,Gauteng,2487.90,6,Customer 138
+ORD-0139,2026-05-19,Electronics,Eastern Cape,3968.51,2,Customer 139
+ORD-0140,2026-05-20,Outdoor,KwaZulu-Natal,3094.54,8,Customer 140
+ORD-0141,2026-05-21,Home & living,Eastern Cape,944.32,5,Customer 141
+ORD-0142,2026-05-22,Outdoor,Eastern Cape,2158.49,5,Customer 142
+ORD-0143,2026-05-23,Fashion,Western Cape,4007.82,2,Customer 143
+ORD-0144,2026-05-24,Fashion,Eastern Cape,1261.28,8,Customer 144
+ORD-0145,2026-05-25,Outdoor,KwaZulu-Natal,254.32,6,Customer 145
+ORD-0146,2026-05-26,Home & living,Eastern Cape,1112.72,5,Customer 146
+ORD-0147,2026-05-27,Fashion,KwaZulu-Natal,4239.90,5,Customer 147
+ORD-0148,2026-05-28,Electronics,Western Cape,520.67,7,Customer 148
+ORD-0149,2026-05-29,Outdoor,Western Cape,3352.05,8,Customer 149
+ORD-0150,2026-05-30,Outdoor,Gauteng,555.49,4,Customer 150
+ORD-0151,2026-05-31,Outdoor,Western Cape,1553.04,6,Customer 151
+ORD-0152,2026-06-01,Outdoor,KwaZulu-Natal,2111.36,6,Customer 152
+ORD-0153,2026-06-02,Fashion,Eastern Cape,1387.89,5,Customer 153
+ORD-0154,2026-06-03,Home & living,Gauteng,3495.61,6,Customer 154
+ORD-0155,2026-06-04,Electronics,Western Cape,1016.41,8,Customer 155
+ORD-0156,2026-06-05,Fashion,,4708.79,4,Customer 156
+ORD-0157,2026-06-06,Fashion,Western Cape,1808.92,5,Customer 157
+ORD-0158,2026-06-07,Electronics,Western Cape,1403.78,1,Customer 158
+ORD-0159,2026-06-08,Fashion,Western Cape,3105.23,8,Customer 159
+ORD-0161,2026-06-10,Outdoor,Eastern Cape,1714.50,1,Customer 161
+ORD-0162,2026-06-11,Fashion,Eastern Cape,653.93,2,Customer 162
+ORD-0163,2026-06-12,Outdoor,Eastern Cape,466.70,1,Customer 163
+ORD-0164,2026-06-13,Home & living,Western Cape,3916.14,5,Customer 164
+ORD-0165,2026-06-14,Electronics,Western Cape,674.35,7,Customer 165
+ORD-0166,2026-06-15,Home & living,Eastern Cape,2228.41,8,Customer 166
+ORD-0167,2026-06-16,Fashion,Eastern Cape,1549.18,1,Customer 167
+ORD-0168,2026-06-17,Electronics,Western Cape,3047.41,5,Customer 168
+ORD-0169,2026-06-18,Electronics,Western Cape,1242.57,2,Customer 169
+ORD-0170,2026-06-19,Home & living,Gauteng,2031.86,8,Customer 170
+ORD-0171,2026-06-20,Fashion,Gauteng,1203.31,5,Customer 171
+ORD-0172,2026-06-21,Outdoor,Gauteng,3336.96,5,Customer 172
+ORD-0173,2026-06-22,Home & living,Eastern Cape,,4,Customer 173
+ORD-0174,2026-06-23,Home & living,KwaZulu-Natal,3988.63,2,Customer 174
+ORD-0175,2026-06-24,Electronics,Western Cape,3829.50,5,Customer 175
+ORD-0176,2026-06-25,Outdoor,Gauteng,2313.51,5,Customer 176
+ORD-0177,2026-06-26,Outdoor,KwaZulu-Natal,2462.21,8,Customer 177
+ORD-0178,2026-06-27,Outdoor,Gauteng,2918.81,7,Customer 178
+ORD-0179,2026-06-28,Fashion,KwaZulu-Natal,241.05,4,Customer 179
+ORD-0180,2026-06-29,Electronics,KwaZulu-Natal,2816.84,3,Customer 180
+ORD-0181,2026-01-01,Outdoor,Eastern Cape,4407.22,3,Customer 181
+ORD-0182,2026-01-02,Outdoor,Eastern Cape,4655.18,8,Customer 182
+ORD-0183,2026-01-03,Fashion,Eastern Cape,1679.88,2,Customer 183
+ORD-0184,2026-01-04,Home & living,KwaZulu-Natal,2046.50,8,Customer 184
+ORD-0185,2026-01-05,Fashion,Eastern Cape,3927.49,1,Customer 185
+ORD-0186,2026-01-06,Outdoor,Gauteng,1591.94,6,Customer 186
+ORD-0187,2026-01-07,Electronics,,4167.78,1,Customer 187
+ORD-0188,2026-01-08,Outdoor,Eastern Cape,373.68,6,Customer 188
+ORD-0189,2026-01-09,Outdoor,Eastern Cape,3676.76,4,Customer 189
+ORD-0190,2026-01-10,Fashion,Western Cape,4461.51,8,Customer 190
+ORD-0191,2026-01-11,Outdoor,Gauteng,255.11,4,Customer 191
+ORD-0192,2026-01-12,Home & living,KwaZulu-Natal,2697.93,7,Customer 192
+ORD-0193,2026-01-13,Electronics,Western Cape,4763.76,2,Customer 193
+ORD-0194,2026-01-14,Outdoor,Gauteng,3151.28,3,Customer 194
+ORD-0195,2026-01-15,Outdoor,KwaZulu-Natal,98500,5,Customer 195
+ORD-0196,2026-01-16,Outdoor,Eastern Cape,4707.54,4,Customer 196
+ORD-0197,2026-01-17,Outdoor,Western Cape,1915.18,3,Customer 197
+ORD-0198,2026-01-18,Electronics,KwaZulu-Natal,3736.12,7,Customer 198
+ORD-0199,2026-01-19,Fashion,KwaZulu-Natal,3960.17,5,Customer 199
+ORD-0200,2026-01-20,Fashion,Eastern Cape,4169.42,8,Customer 200
+ORD-0201,2026-01-21,Outdoor,KwaZulu-Natal,1675.82,7,Customer 201
+ORD-0202,2026-01-22,Outdoor,KwaZulu-Natal,4189.74,4,Customer 202
+ORD-0203,2026-01-23,Outdoor,Western Cape,4126.14,7,Customer 203
+ORD-0204,2026-01-24,Electronics,KwaZulu-Natal,3605.22,7,Customer 204
+ORD-0205,2026-01-25,Outdoor,Western Cape,2438.14,1,Customer 205
+ORD-0206,2026-01-26,Home & living,KwaZulu-Natal,4190.20,8,Customer 206
+ORD-0207,2026-01-27,Electronics,Eastern Cape,191.83,3,Customer 207
+ORD-0208,2026-01-28,Outdoor,Western Cape,470.20,5,Customer 208
+ORD-0209,2026-01-29,Fashion,Eastern Cape,3161.24,6,Customer 209
+ORD-0210,2026-01-30,Outdoor,KwaZulu-Natal,3053.42,8,Customer 210
+ORD-0211,2026-01-31,Electronics,Gauteng,1218.72,5,Customer 211
+ORD-0212,2026-02-01,Home & living,Gauteng,2150.99,2,Customer 212
+ORD-0214,2026-02-03,Electronics,Gauteng,1638.07,1,Customer 214
+ORD-0215,2026-02-04,Fashion,KwaZulu-Natal,1874.26,3,Customer 215
+ORD-0216,2026-02-05,Home & living,Eastern Cape,,3,Customer 216
+ORD-0217,2026-02-06,Home & living,Western Cape,489.57,7,Customer 217
+ORD-0218,2026-02-07,Home & living,,4392.04,3,Customer 218
+ORD-0219,2026-02-08,Home & living,Eastern Cape,3105.39,8,Customer 219
+ORD-0220,2026-02-09,Fashion,Gauteng,4326.89,8,Customer 220
+ORD-0221,2026-02-10,Fashion,Western Cape,465.67,6,Customer 221
+ORD-0222,2026-02-11,Fashion,Eastern Cape,3350.67,8,Customer 222
+ORD-0223,2026-02-12,Fashion,Western Cape,4797.07,8,Customer 223
+ORD-0224,2026-02-13,Electronics,Western Cape,1904.78,6,Customer 224
+ORD-0225,2026-02-14,Fashion,KwaZulu-Natal,222.68,7,Customer 225
+ORD-0226,2026-02-15,Fashion,Gauteng,2768.55,1,Customer 226
+ORD-0227,2026-02-16,Outdoor,KwaZulu-Natal,3750.47,4,Customer 227
+ORD-0228,2026-02-17,Fashion,Western Cape,3099.37,5,Customer 228
+ORD-0229,2026-02-18,Home & living,Gauteng,4347.93,1,Customer 229
+ORD-0230,2026-02-19,Fashion,Eastern Cape,276.15,6,Customer 230
+ORD-0231,2026-02-20,Home & living,Gauteng,4377.06,6,Customer 231
+ORD-0232,2026-02-21,Outdoor,Western Cape,1059.72,6,Customer 232
+ORD-0233,2026-02-22,Fashion,Western Cape,1322.62,8,Customer 233
+ORD-0234,2026-02-23,Fashion,KwaZulu-Natal,3883.81,8,Customer 234
+ORD-0235,2026-02-24,Electronics,Western Cape,3649.43,4,Customer 235
+ORD-0236,2026-02-25,Outdoor,KwaZulu-Natal,542.62,7,Customer 236
+ORD-0237,2026-02-26,Electronics,KwaZulu-Natal,2631.16,8,Customer 237
+ORD-0238,2026-02-27,Fashion,KwaZulu-Natal,2855.74,6,Customer 238
+ORD-0239,2026-02-28,Electronics,Western Cape,2326.51,6,Customer 239
+ORD-0240,2026-03-01,Home & living,Gauteng,3093.69,8,Customer 240
+ORD-0241,2026-03-02,Fashion,Eastern Cape,666.04,1,Customer 001
+ORD-0242,2026-03-03,Electronics,KwaZulu-Natal,4780.94,2,Customer 002
+ORD-0243,2026-03-04,Electronics,Western Cape,4272.37,3,Customer 003
+ORD-0244,2026-03-05,Outdoor,Eastern Cape,1856.33,7,Customer 004
+ORD-0245,2026-03-06,Home & living,Eastern Cape,3185.03,8,Customer 005
+ORD-0246,2026-03-07,Outdoor,KwaZulu-Natal,273.11,6,Customer 006
+ORD-0247,2026-03-08,Home & living,Eastern Cape,2201.18,4,Customer 007
+ORD-0248,2026-03-09,Fashion,Gauteng,4710.74,6,Customer 008
+ORD-0249,2026-03-10,Fashion,,1983.29,4,Customer 009
+ORD-0250,2026-03-11,Electronics,Eastern Cape,549.03,4,Customer 010
+ORD-0251,2026-03-12,Electronics,Gauteng,3802.20,4,Customer 011
+ORD-0252,2026-03-13,Home & living,Western Cape,441.10,4,Customer 012
+ORD-0253,2026-03-14,Home & living,Western Cape,1657.66,3,Customer 013
+ORD-0254,2026-03-15,Electronics,KwaZulu-Natal,4137.34,3,Customer 014
+ORD-0255,2026-03-16,Home & living,KwaZulu-Natal,3857.04,2,Customer 015
+ORD-0256,2026-03-17,Electronics,Western Cape,189.55,4,Customer 016
+ORD-0257,2026-03-18,Fashion,Gauteng,935.47,1,Customer 017
+ORD-0258,2026-03-19,Home & living,Eastern Cape,2582.08,2,Customer 018
+ORD-0259,2026-03-20,Outdoor,Eastern Cape,,2,Customer 019
+ORD-0260,2026-03-21,Outdoor,Western Cape,4544.55,1,Customer 020
+ORD-0261,2026-03-22,Fashion,Eastern Cape,3130.83,1,Customer 021
+ORD-0262,2026-03-23,Electronics,Eastern Cape,4085.36,7,Customer 022
+ORD-0263,2026-03-24,Electronics,Eastern Cape,3454.04,8,Customer 023
+ORD-0264,2026-03-25,Electronics,Gauteng,1627.48,3,Customer 024
+ORD-0265,2026-03-26,Electronics,Western Cape,1407.07,6,Customer 025
+ORD-0267,2026-03-28,Electronics,Gauteng,4111.07,4,Customer 027
+ORD-0268,2026-03-29,Outdoor,Eastern Cape,4276.27,7,Customer 028
+ORD-0269,2026-03-30,Fashion,Eastern Cape,1986.06,2,Customer 029
+ORD-0270,2026-03-31,Fashion,Eastern Cape,1582.61,5,Customer 030
+ORD-0271,2026-04-01,Fashion,Western Cape,3334.32,8,Customer 031
+ORD-0272,2026-04-02,Electronics,Gauteng,4012.69,2,Customer 032
+ORD-0273,2026-04-03,Outdoor,Gauteng,3604.68,6,Customer 033
+ORD-0274,2026-04-04,Home & living,Gauteng,2864.66,6,Customer 034
+ORD-0275,2026-04-05,Electronics,Eastern Cape,1774.84,7,Customer 035
+ORD-0276,2026-04-06,Electronics,KwaZulu-Natal,2929.92,6,Customer 036
+ORD-0277,2026-04-07,Electronics,Western Cape,844.14,8,Customer 037
+ORD-0278,2026-04-08,Home & living,Gauteng,1758.53,6,Customer 038
+ORD-0279,2026-04-09,Electronics,KwaZulu-Natal,2806.79,7,Customer 039
+ORD-0280,2026-04-10,Electronics,,255.50,5,Customer 040
+ORD-0281,2026-04-11,Fashion,KwaZulu-Natal,1762.79,3,Customer 041
+ORD-0282,2026-04-12,Home & living,Eastern Cape,445.66,1,Customer 042
+ORD-0283,2026-04-13,Electronics,Western Cape,1880.59,8,Customer 043
+ORD-0284,2026-04-14,Fashion,Western Cape,1851.85,6,Customer 044
+ORD-0285,2026-04-15,Electronics,Gauteng,848.11,1,Customer 045
+ORD-0286,2026-04-16,Electronics,KwaZulu-Natal,2193.77,7,Customer 046
+ORD-0287,2026-04-17,Outdoor,Eastern Cape,2058.38,4,Customer 047
+ORD-0288,2026-04-18,Electronics,KwaZulu-Natal,2132.00,5,Customer 048
+ORD-0289,2026-04-19,Outdoor,KwaZulu-Natal,332.55,7,Customer 049
+ORD-0290,2026-04-20,Electronics,Gauteng,1076.70,4,Customer 050
+ORD-0291,2026-04-21,Home & living,KwaZulu-Natal,1474.61,2,Customer 051
+ORD-0292,2026-04-22,Electronics,Eastern Cape,98500,3,Customer 052
+ORD-0293,2026-04-23,Home & living,Eastern Cape,2612.49,4,Customer 053
+ORD-0294,2026-04-24,Fashion,Gauteng,1978.29,1,Customer 054
+ORD-0295,2026-04-25,Outdoor,Gauteng,2271.65,2,Customer 055
+ORD-0296,2026-04-26,Fashion,Eastern Cape,2803.51,7,Customer 056
+ORD-0297,2026-04-27,Fashion,Gauteng,2015.55,6,Customer 057
+ORD-0298,2026-04-28,Home & living,Eastern Cape,4013.88,6,Customer 058
+ORD-0299,2026-04-29,Electronics,Eastern Cape,4072.19,4,Customer 059
+ORD-0300,2026-04-30,Outdoor,Eastern Cape,2572.14,7,Customer 060
+ORD-0301,2026-05-01,Fashion,KwaZulu-Natal,1156.96,3,Customer 061
+ORD-0302,2026-05-02,Electronics,Gauteng,,4,Customer 062
+ORD-0303,2026-05-03,Fashion,KwaZulu-Natal,3524.13,3,Customer 063
+ORD-0304,2026-05-04,Home & living,Gauteng,805.36,4,Customer 064
+ORD-0305,2026-05-05,Home & living,Western Cape,3677.81,2,Customer 065
+ORD-0306,2026-05-06,Home & living,Eastern Cape,2291.30,8,Customer 066
+ORD-0307,2026-05-07,Fashion,KwaZulu-Natal,826.48,2,Customer 067
+ORD-0308,2026-05-08,Outdoor,Eastern Cape,3074.88,5,Customer 068
+ORD-0309,2026-05-09,Electronics,KwaZulu-Natal,2494.34,5,Customer 069
+ORD-0310,2026-05-10,Outdoor,Eastern Cape,296.00,6,Customer 070
+ORD-0311,2026-05-11,Fashion,,3137.04,2,Customer 071
+ORD-0312,2026-05-12,Outdoor,Eastern Cape,2835.94,1,Customer 072
+ORD-0313,2026-05-13,Outdoor,Western Cape,1624.75,8,Customer 073
+ORD-0314,2026-05-14,Home & living,Gauteng,2228.45,6,Customer 074
+ORD-0315,2026-05-15,Electronics,Western Cape,303.19,8,Customer 075
+ORD-0316,2026-05-16,Outdoor,Western Cape,1823.04,5,Customer 076
+ORD-0317,2026-05-17,Outdoor,Eastern Cape,3744.50,1,Customer 077
+ORD-0318,2026-05-18,Fashion,Gauteng,1662.95,7,Customer 078
+ORD-0320,2026-05-20,Fashion,Gauteng,2847.22,3,Customer 080
+ORD-0321,2026-05-21,Fashion,KwaZulu-Natal,4648.82,7,Customer 081
+ORD-0322,2026-05-22,Home & living,Gauteng,1568.84,7,Customer 082
+ORD-0323,2026-05-23,Fashion,Western Cape,3256.14,2,Customer 083
+ORD-0324,2026-05-24,Outdoor,KwaZulu-Natal,205.32,5,Customer 084
+ORD-0325,2026-05-25,Home & living,Western Cape,1719.31,8,Customer 085
+ORD-0326,2026-05-26,Home & living,Western Cape,4799.89,3,Customer 086
+ORD-0327,2026-05-27,Electronics,KwaZulu-Natal,4071.92,2,Customer 087
+ORD-0328,2026-05-28,Electronics,KwaZulu-Natal,4221.52,3,Customer 088
+ORD-0329,2026-05-29,Outdoor,Western Cape,879.32,3,Customer 089
+ORD-0330,2026-05-30,Outdoor,Gauteng,2042.82,4,Customer 090
+ORD-0331,2026-05-31,Outdoor,KwaZulu-Natal,3641.19,8,Customer 091
+ORD-0332,2026-06-01,Home & living,Western Cape,1568.31,8,Customer 092
+ORD-0333,2026-06-02,Home & living,KwaZulu-Natal,3294.48,8,Customer 093
+ORD-0334,2026-06-03,Outdoor,KwaZulu-Natal,3761.62,7,Customer 094
+ORD-0335,2026-06-04,Home & living,Western Cape,3869.89,3,Customer 095
+ORD-0336,2026-06-05,Fashion,Gauteng,3120.72,6,Customer 096
+ORD-0337,2026-06-06,Electronics,Gauteng,1454.09,3,Customer 097
+ORD-0338,2026-06-07,Fashion,Eastern Cape,4356.83,3,Customer 098
+ORD-0339,2026-06-08,Outdoor,Gauteng,4549.21,4,Customer 099
+ORD-0340,2026-06-09,Outdoor,KwaZulu-Natal,4474.61,7,Customer 100
+ORD-0341,2026-06-10,Electronics,Eastern Cape,2469.39,4,Customer 101
+ORD-0342,2026-06-11,Outdoor,,1874.59,1,Customer 102
+ORD-0343,2026-06-12,Fashion,Gauteng,4047.35,6,Customer 103
+ORD-0344,2026-06-13,Home & living,Western Cape,299.26,8,Customer 104
+ORD-0345,2026-06-14,Home & living,Eastern Cape,,1,Customer 105
+ORD-0346,2026-06-15,Electronics,Gauteng,1317.72,3,Customer 106
+ORD-0347,2026-06-16,Outdoor,Gauteng,3752.49,4,Customer 107
+ORD-0348,2026-06-17,Fashion,Gauteng,343.47,7,Customer 108
+ORD-0349,2026-06-18,Outdoor,Gauteng,638.81,8,Customer 109
+ORD-0350,2026-06-19,Electronics,Western Cape,3482.79,5,Customer 110
+ORD-0351,2026-06-20,Outdoor,Gauteng,2997.31,4,Customer 111
+ORD-0352,2026-06-21,Outdoor,Western Cape,3229.26,2,Customer 112
+ORD-0353,2026-06-22,Fashion,Gauteng,4581.93,1,Customer 113
+ORD-0354,2026-06-23,Outdoor,Eastern Cape,323.74,7,Customer 114
+ORD-0355,2026-06-24,Fashion,KwaZulu-Natal,3617.44,6,Customer 115
+ORD-0356,2026-06-25,Electronics,KwaZulu-Natal,1248.47,2,Customer 116
+ORD-0357,2026-06-26,Fashion,Western Cape,327.49,6,Customer 117
+ORD-0358,2026-06-27,Home & living,Eastern Cape,4710.23,8,Customer 118
+ORD-0359,2026-06-28,Home & living,Western Cape,415.31,8,Customer 119
+ORD-0360,2026-06-29,Electronics,KwaZulu-Natal,1063.45,4,Customer 120
+ORD-0361,2026-01-01,Electronics,KwaZulu-Natal,4488.18,7,Customer 121
+ORD-0362,2026-01-02,Outdoor,KwaZulu-Natal,291.39,4,Customer 122
+ORD-0363,2026-01-03,Fashion,KwaZulu-Natal,4154.81,1,Customer 123
+ORD-0364,2026-01-04,Fashion,KwaZulu-Natal,702.54,6,Customer 124
+ORD-0365,2026-01-05,Outdoor,Eastern Cape,3598.68,7,Customer 125
+ORD-0366,2026-01-06,Fashion,Western Cape,2442.23,8,Customer 126
+ORD-0367,2026-01-07,Fashion,KwaZulu-Natal,3869.37,7,Customer 127
+ORD-0368,2026-01-08,Electronics,Eastern Cape,2939.48,3,Customer 128
+ORD-0369,2026-01-09,Fashion,KwaZulu-Natal,600.16,6,Customer 129
+ORD-0370,2026-01-10,Fashion,KwaZulu-Natal,2206.89,7,Customer 130
+ORD-0371,2026-01-11,Home & living,Eastern Cape,1765.24,1,Customer 131
+ORD-0373,2026-01-13,Electronics,,1820.30,3,Customer 133
+ORD-0374,2026-01-14,Electronics,Western Cape,4091.77,8,Customer 134
+ORD-0375,2026-01-15,Electronics,Western Cape,434.65,6,Customer 135
+ORD-0376,2026-01-16,Fashion,Eastern Cape,4563.51,1,Customer 136
+ORD-0377,2026-01-17,Home & living,Eastern Cape,4560.49,6,Customer 137
+ORD-0378,2026-01-18,Outdoor,Gauteng,2805.95,6,Customer 138
+ORD-0379,2026-01-19,Outdoor,KwaZulu-Natal,3159.94,4,Customer 139
+ORD-0380,2026-01-20,Electronics,Gauteng,3562.96,8,Customer 140
+ORD-0381,2026-01-21,Outdoor,Gauteng,1345.11,5,Customer 141
+ORD-0382,2026-01-22,Outdoor,Western Cape,4782.99,5,Customer 142
+ORD-0383,2026-01-23,Outdoor,Western Cape,693.94,2,Customer 143
+ORD-0384,2026-01-24,Outdoor,Western Cape,4325.82,8,Customer 144
+ORD-0385,2026-01-25,Electronics,KwaZulu-Natal,3245.49,2,Customer 145
+ORD-0386,2026-01-26,Fashion,KwaZulu-Natal,4104.37,3,Customer 146
+ORD-0387,2026-01-27,Fashion,Western Cape,687.98,4,Customer 147
+ORD-0388,2026-01-28,Home & living,Western Cape,,1,Customer 148
+ORD-0389,2026-01-29,Fashion,KwaZulu-Natal,98500,3,Customer 149
+ORD-0390,2026-01-30,Electronics,Gauteng,1567.48,8,Customer 150
+ORD-0391,2026-01-31,Outdoor,Eastern Cape,3973.23,2,Customer 151
+ORD-0392,2026-02-01,Home & living,KwaZulu-Natal,3126.14,8,Customer 152
+ORD-0393,2026-02-02,Outdoor,KwaZulu-Natal,720.61,3,Customer 153
+ORD-0394,2026-02-03,Home & living,Eastern Cape,2473.40,1,Customer 154
+ORD-0395,2026-02-04,Electronics,Western Cape,1543.30,3,Customer 155
+ORD-0396,2026-02-05,Fashion,Western Cape,1739.39,5,Customer 156
+ORD-0397,2026-02-06,Electronics,KwaZulu-Natal,1038.69,5,Customer 157
+ORD-0398,2026-02-07,Home & living,KwaZulu-Natal,2995.52,2,Customer 158
+ORD-0399,2026-02-08,Home & living,Western Cape,921.22,6,Customer 159
+ORD-0400,2026-02-09,Electronics,Gauteng,500.12,5,Customer 160
+ORD-0401,2026-02-10,Home & living,Eastern Cape,3012.75,1,Customer 161
+ORD-0402,2026-02-11,Outdoor,KwaZulu-Natal,3124.13,5,Customer 162
+ORD-0403,2026-02-12,Outdoor,Western Cape,3885.94,7,Customer 163
+ORD-0404,2026-02-13,Fashion,,461.51,1,Customer 164
+ORD-0405,2026-02-14,Home & living,Eastern Cape,2065.11,8,Customer 165
+ORD-0406,2026-02-15,Home & living,KwaZulu-Natal,2959.17,6,Customer 166
+ORD-0407,2026-02-16,Fashion,KwaZulu-Natal,4684.75,3,Customer 167
+ORD-0408,2026-02-17,Fashion,Gauteng,1613.46,8,Customer 168
+ORD-0409,2026-02-18,Electronics,KwaZulu-Natal,2224.11,3,Customer 169
+ORD-0410,2026-02-19,Electronics,Gauteng,1478.19,7,Customer 170
+ORD-0411,2026-02-20,Outdoor,Western Cape,4625.37,3,Customer 171
+ORD-0412,2026-02-21,Fashion,KwaZulu-Natal,1008.42,3,Customer 172
+ORD-0413,2026-02-22,Outdoor,Eastern Cape,2454.20,5,Customer 173
+ORD-0414,2026-02-23,Outdoor,Gauteng,541.43,7,Customer 174
+ORD-0415,2026-02-24,Outdoor,Western Cape,1126.88,6,Customer 175
+ORD-0416,2026-02-25,Electronics,Gauteng,1436.75,8,Customer 176
+ORD-0417,2026-02-26,Fashion,Gauteng,4084.77,7,Customer 177
+ORD-0418,2026-02-27,Home & living,KwaZulu-Natal,3524.74,7,Customer 178
+ORD-0419,2026-02-28,Fashion,Gauteng,1994.72,4,Customer 179
+ORD-0420,2026-03-01,Fashion,KwaZulu-Natal,464.13,8,Customer 180
+ORD-0421,2026-03-02,Fashion,Gauteng,722.14,2,Customer 181
+ORD-0422,2026-03-03,Outdoor,KwaZulu-Natal,3840.12,6,Customer 182
+ORD-0423,2026-03-04,Fashion,Western Cape,1051.59,7,Customer 183
+ORD-0424,2026-03-05,Electronics,Gauteng,302.12,6,Customer 184
+ORD-0426,2026-03-07,Fashion,KwaZulu-Natal,880.51,5,Customer 186
+ORD-0427,2026-03-08,Fashion,Eastern Cape,3436.90,5,Customer 187
+ORD-0428,2026-03-09,Outdoor,Gauteng,1843.91,2,Customer 188
+ORD-0429,2026-03-10,Outdoor,KwaZulu-Natal,3848.81,1,Customer 189
+ORD-0430,2026-03-11,Outdoor,KwaZulu-Natal,4645.89,4,Customer 190
+ORD-0431,2026-03-12,Electronics,Eastern Cape,,7,Customer 191
+ORD-0432,2026-03-13,Home & living,Western Cape,267.75,2,Customer 192
+ORD-0433,2026-03-14,Home & living,Gauteng,2184.06,7,Customer 193
+ORD-0434,2026-03-15,Home & living,Eastern Cape,3351.54,7,Customer 194
+ORD-0435,2026-03-16,Outdoor,,3423.03,4,Customer 195
+ORD-0436,2026-03-17,Fashion,Eastern Cape,2579.23,6,Customer 196
+ORD-0437,2026-03-18,Home & living,Eastern Cape,4388.74,6,Customer 197
+ORD-0438,2026-03-19,Fashion,KwaZulu-Natal,2975.16,4,Customer 198
+ORD-0439,2026-03-20,Home & living,KwaZulu-Natal,2731.85,4,Customer 199
+ORD-0440,2026-03-21,Fashion,KwaZulu-Natal,3418.94,8,Customer 200
+ORD-0441,2026-03-22,Fashion,Eastern Cape,1752.40,5,Customer 201
+ORD-0442,2026-03-23,Fashion,Gauteng,2803.87,7,Customer 202
+ORD-0443,2026-03-24,Outdoor,KwaZulu-Natal,4587.57,3,Customer 203
+ORD-0444,2026-03-25,Fashion,Gauteng,1466.11,2,Customer 204
+ORD-0445,2026-03-26,Fashion,Eastern Cape,3189.95,8,Customer 205
+ORD-0446,2026-03-27,Home & living,Western Cape,3994.81,5,Customer 206
+ORD-0447,2026-03-28,Fashion,Western Cape,631.18,4,Customer 207
+ORD-0448,2026-03-29,Home & living,Gauteng,3254.82,4,Customer 208
+ORD-0449,2026-03-30,Home & living,Gauteng,588.93,6,Customer 209
+ORD-0450,2026-03-31,Outdoor,Gauteng,3307.98,3,Customer 210
+ORD-0451,2026-04-01,Electronics,Western Cape,2024.33,8,Customer 211
+ORD-0452,2026-04-02,Outdoor,Western Cape,3657.66,5,Customer 212
+ORD-0453,2026-04-03,Fashion,KwaZulu-Natal,3142.80,2,Customer 213
+ORD-0454,2026-04-04,Home & living,Gauteng,4393.92,3,Customer 214
+ORD-0455,2026-04-05,Outdoor,Western Cape,4490.76,1,Customer 215
+ORD-0456,2026-04-06,Outdoor,Eastern Cape,991.94,5,Customer 216
+ORD-0457,2026-04-07,Electronics,Gauteng,1516.48,2,Customer 217
+ORD-0458,2026-04-08,Fashion,KwaZulu-Natal,2246.35,8,Customer 218
+ORD-0459,2026-04-09,Home & living,Eastern Cape,1396.88,2,Customer 219
+ORD-0460,2026-04-10,Fashion,Western Cape,3541.64,5,Customer 220
+ORD-0461,2026-04-11,Home & living,Gauteng,3567.37,5,Customer 221
+ORD-0462,2026-04-12,Home & living,Western Cape,2979.27,7,Customer 222
+ORD-0463,2026-04-13,Outdoor,KwaZulu-Natal,525.93,2,Customer 223
+ORD-0464,2026-04-14,Home & living,Western Cape,2354.49,4,Customer 224
+ORD-0465,2026-04-15,Electronics,KwaZulu-Natal,1915.13,8,Customer 225
+ORD-0466,2026-04-16,Fashion,,1533.11,1,Customer 226
+ORD-0467,2026-04-17,Fashion,KwaZulu-Natal,3362.16,1,Customer 227
+ORD-0468,2026-04-18,Electronics,Eastern Cape,1555.85,7,Customer 228
+ORD-0469,2026-04-19,Fashion,Gauteng,3109.17,5,Customer 229
+ORD-0470,2026-04-20,Fashion,Western Cape,1145.52,3,Customer 230
+ORD-0471,2026-04-21,Outdoor,Western Cape,2249.30,6,Customer 231
+ORD-0472,2026-04-22,Outdoor,Eastern Cape,3664.40,4,Customer 232
+ORD-0473,2026-04-23,Home & living,Gauteng,2579.37,6,Customer 233
+ORD-0474,2026-04-24,Electronics,Gauteng,,4,Customer 234
+ORD-0475,2026-04-25,Home & living,Western Cape,1655.59,8,Customer 235
+ORD-0476,2026-04-26,Electronics,Western Cape,3475.18,8,Customer 236
+ORD-0477,2026-04-27,Electronics,Eastern Cape,3904.68,8,Customer 237
+ORD-0479,2026-04-29,Outdoor,KwaZulu-Natal,3504.95,7,Customer 239
+ORD-0480,2026-04-30,Fashion,Gauteng,3610.36,2,Customer 240
+ORD-0481,2026-05-01,Electronics,Eastern Cape,1732.40,2,Customer 001
+ORD-0482,2026-05-02,Electronics,Gauteng,4735.12,8,Customer 002
+ORD-0483,2026-05-03,Electronics,KwaZulu-Natal,2033.50,3,Customer 003
+ORD-0484,2026-05-04,Outdoor,KwaZulu-Natal,4766.57,7,Customer 004
+ORD-0485,2026-05-05,Outdoor,Eastern Cape,1878.02,3,Customer 005
+ORD-0486,2026-05-06,Fashion,Gauteng,98500,7,Customer 006
+ORD-0487,2026-05-07,Home & living,Western Cape,4026.97,1,Customer 007
+ORD-0488,2026-05-08,Fashion,Eastern Cape,3271.98,7,Customer 008
+ORD-0489,2026-05-09,Outdoor,Western Cape,1278.36,6,Customer 009
+ORD-0490,2026-05-10,Home & living,KwaZulu-Natal,1002.09,2,Customer 010
+ORD-0491,2026-05-11,Electronics,Eastern Cape,2997.84,1,Customer 011
+ORD-0492,2026-05-12,Home & living,Western Cape,434.92,1,Customer 012
+ORD-0493,2026-05-13,Outdoor,Gauteng,1265.36,1,Customer 013
+ORD-0494,2026-05-14,Outdoor,Eastern Cape,1216.71,4,Customer 014
+ORD-0495,2026-05-15,Electronics,Western Cape,2478.23,5,Customer 015
+ORD-0496,2026-05-16,Home & living,KwaZulu-Natal,2822.58,6,Customer 016
+ORD-0497,2026-05-17,Home & living,,4220.89,4,Customer 017
+ORD-0498,2026-05-18,Outdoor,KwaZulu-Natal,1407.72,3,Customer 018
+ORD-0499,2026-05-19,Outdoor,Eastern Cape,339.42,6,Customer 019
+ORD-0500,2026-05-20,Outdoor,KwaZulu-Natal,3378.72,7,Customer 020
+ORD-0501,2026-05-21,Home & living,KwaZulu-Natal,1881.83,8,Customer 021
+ORD-0502,2026-05-22,Home & living,Western Cape,1527.45,3,Customer 022
+ORD-0503,2026-05-23,Outdoor,Gauteng,2751.97,7,Customer 023
+ORD-0504,2026-05-24,Home & living,Eastern Cape,1256.58,4,Customer 024
+ORD-0505,2026-05-25,Fashion,Gauteng,4436.02,6,Customer 025
+ORD-0506,2026-05-26,Electronics,Western Cape,361.19,7,Customer 026
+ORD-0507,2026-05-27,Electronics,Gauteng,1000.60,4,Customer 027
+ORD-0508,2026-05-28,Outdoor,Western Cape,4189.14,6,Customer 028
+ORD-0509,2026-05-29,Fashion,Gauteng,1111.26,4,Customer 029
+ORD-0510,2026-05-30,Electronics,Eastern Cape,4399.59,4,Customer 030
+ORD-0511,2026-05-31,Outdoor,Western Cape,2703.73,5,Customer 031
+ORD-0512,2026-06-01,Outdoor,Eastern Cape,2617.48,6,Customer 032
+ORD-0513,2026-06-02,Fashion,KwaZulu-Natal,1803.14,8,Customer 033
+ORD-0514,2026-06-03,Outdoor,Gauteng,3877.18,8,Customer 034
+ORD-0515,2026-06-04,Fashion,Western Cape,1854.90,7,Customer 035
+ORD-0516,2026-06-05,Electronics,Western Cape,3589.06,1,Customer 036
+ORD-0517,2026-06-06,Fashion,Eastern Cape,,4,Customer 037
+ORD-0518,2026-06-07,Fashion,Western Cape,1897.65,4,Customer 038
+ORD-0519,2026-06-08,Outdoor,KwaZulu-Natal,1324.29,8,Customer 039
+ORD-0520,2026-06-09,Outdoor,Eastern Cape,907.33,6,Customer 040
+ORD-0521,2026-06-10,Home & living,Western Cape,3491.07,8,Customer 041
+ORD-0522,2026-06-11,Home & living,Gauteng,2572.06,2,Customer 042
+ORD-0523,2026-06-12,Electronics,Gauteng,2050.00,4,Customer 043
+ORD-0524,2026-06-13,Electronics,Western Cape,162.78,8,Customer 044
+ORD-0525,2026-06-14,Fashion,Gauteng,3011.47,8,Customer 045
+ORD-0526,2026-06-15,Outdoor,Gauteng,150.95,7,Customer 046
+ORD-0527,2026-06-16,Electronics,Gauteng,2597.67,5,Customer 047
+ORD-0528,2026-06-17,Fashion,,2470.37,7,Customer 048
+ORD-0529,2026-06-18,Home & living,Gauteng,4416.47,3,Customer 049
+ORD-0530,2026-06-19,Home & living,Western Cape,3020.57,5,Customer 050
+ORD-0532,2026-06-21,Fashion,Eastern Cape,2268.11,4,Customer 052
+ORD-0533,2026-06-22,Home & living,KwaZulu-Natal,3321.31,2,Customer 053
+ORD-0534,2026-06-23,Electronics,Gauteng,2016.70,7,Customer 054
+ORD-0535,2026-06-24,Outdoor,Gauteng,3099.98,3,Customer 055
+ORD-0536,2026-06-25,Electronics,Eastern Cape,4076.14,6,Customer 056
+ORD-0537,2026-06-26,Electronics,Gauteng,1195.31,8,Customer 057
+ORD-0538,2026-06-27,Fashion,Gauteng,4445.07,5,Customer 058
+ORD-0539,2026-06-28,Electronics,Western Cape,4466.63,6,Customer 059
+ORD-0540,2026-06-29,Electronics,Western Cape,2867.33,7,Customer 060
+ORD-0541,2026-01-01,Electronics,KwaZulu-Natal,880.27,4,Customer 061
+ORD-0542,2026-01-02,Outdoor,KwaZulu-Natal,1916.40,3,Customer 062
+ORD-0543,2026-01-03,Electronics,KwaZulu-Natal,371.30,7,Customer 063
+ORD-0544,2026-01-04,Home & living,Gauteng,1713.97,7,Customer 064
+ORD-0545,2026-01-05,Fashion,Gauteng,3087.70,8,Customer 065
+ORD-0546,2026-01-06,Outdoor,Western Cape,1785.20,7,Customer 066
+ORD-0547,2026-01-07,Outdoor,Western Cape,3300.97,7,Customer 067
+ORD-0548,2026-01-08,Electronics,KwaZulu-Natal,3854.90,2,Customer 068
+ORD-0549,2026-01-09,Electronics,KwaZulu-Natal,841.75,3,Customer 069
+ORD-0550,2026-01-10,Outdoor,KwaZulu-Natal,1808.08,2,Customer 070
+ORD-0551,2026-01-11,Electronics,KwaZulu-Natal,2201.36,5,Customer 071
+ORD-0552,2026-01-12,Electronics,Western Cape,528.55,7,Customer 072
+ORD-0553,2026-01-13,Outdoor,Eastern Cape,603.41,2,Customer 073
+ORD-0554,2026-01-14,Fashion,Gauteng,2913.61,6,Customer 074
+ORD-0555,2026-01-15,Outdoor,Gauteng,1485.85,7,Customer 075
+ORD-0556,2026-01-16,Electronics,Western Cape,2796.77,3,Customer 076
+ORD-0557,2026-01-17,Outdoor,Western Cape,769.77,5,Customer 077
+ORD-0558,2026-01-18,Fashion,Eastern Cape,802.97,3,Customer 078
+ORD-0559,2026-01-19,Outdoor,,2090.76,8,Customer 079
+ORD-0560,2026-01-20,Electronics,KwaZulu-Natal,,4,Customer 080
+ORD-0561,2026-01-21,Outdoor,Western Cape,2262.79,3,Customer 081
+ORD-0562,2026-01-22,Fashion,Gauteng,4560.49,6,Customer 082
+ORD-0563,2026-01-23,Outdoor,KwaZulu-Natal,2180.24,7,Customer 083
+ORD-0564,2026-01-24,Home & living,KwaZulu-Natal,1620.71,4,Customer 084
+ORD-0565,2026-01-25,Outdoor,KwaZulu-Natal,951.34,7,Customer 085
+ORD-0566,2026-01-26,Fashion,KwaZulu-Natal,3559.21,8,Customer 086
+ORD-0567,2026-01-27,Home & living,KwaZulu-Natal,1879.94,7,Customer 087
+ORD-0568,2026-01-28,Fashion,Gauteng,4482.07,4,Customer 088
+ORD-0569,2026-01-29,Home & living,Gauteng,4580.06,8,Customer 089
+ORD-0570,2026-01-30,Home & living,Eastern Cape,3853.17,2,Customer 090
+ORD-0571,2026-01-31,Outdoor,Eastern Cape,771.36,5,Customer 091
+ORD-0572,2026-02-01,Home & living,KwaZulu-Natal,3202.54,7,Customer 092
+ORD-0573,2026-02-02,Outdoor,Gauteng,2221.63,8,Customer 093
+ORD-0574,2026-02-03,Outdoor,Eastern Cape,2664.26,6,Customer 094
+ORD-0575,2026-02-04,Electronics,Gauteng,3718.70,6,Customer 095
+ORD-0576,2026-02-05,Home & living,Gauteng,2755.87,7,Customer 096
+ORD-0577,2026-02-06,Fashion,Eastern Cape,615.82,2,Customer 097
+ORD-0578,2026-02-07,Fashion,Western Cape,2509.96,4,Customer 098
+ORD-0579,2026-02-08,Outdoor,KwaZulu-Natal,1950.51,3,Customer 099
+ORD-0580,2026-02-09,Fashion,Gauteng,2379.37,5,Customer 100
+ORD-0581,2026-02-10,Outdoor,Gauteng,663.20,3,Customer 101
+ORD-0582,2026-02-11,Fashion,KwaZulu-Natal,1725.55,4,Customer 102
+ORD-0583,2026-02-12,Outdoor,KwaZulu-Natal,98500,8,Customer 103
+ORD-0585,2026-02-14,Electronics,Gauteng,4094.16,2,Customer 105
+ORD-0586,2026-02-15,Home & living,Western Cape,2534.85,3,Customer 106
+ORD-0587,2026-02-16,Fashion,Eastern Cape,4605.61,4,Customer 107
+ORD-0588,2026-02-17,Outdoor,Western Cape,992.29,7,Customer 108
+ORD-0589,2026-02-18,Outdoor,Gauteng,3570.98,4,Customer 109
+ORD-0590,2026-02-19,Outdoor,,1939.75,4,Customer 110
+ORD-0591,2026-02-20,Home & living,KwaZulu-Natal,3640.88,2,Customer 111
+ORD-0592,2026-02-21,Electronics,Western Cape,1831.91,4,Customer 112
+ORD-0593,2026-02-22,Outdoor,Gauteng,1347.81,8,Customer 113
+ORD-0594,2026-02-23,Fashion,Eastern Cape,2980.92,2,Customer 114
+ORD-0595,2026-02-24,Fashion,KwaZulu-Natal,4077.02,3,Customer 115
+ORD-0596,2026-02-25,Fashion,Gauteng,3265.48,6,Customer 116
+ORD-0597,2026-02-26,Electronics,Western Cape,1549.18,3,Customer 117
+ORD-0598,2026-02-27,Fashion,Western Cape,2510.66,7,Customer 118
+ORD-0599,2026-02-28,Home & living,Eastern Cape,2099.82,8,Customer 119
+ORD-0600,2026-03-01,Home & living,Western Cape,2411.52,3,Customer 120
+ORD-0601,2026-03-02,Home & living,KwaZulu-Natal,4060.49,1,Customer 121
+ORD-0602,2026-03-03,Fashion,Gauteng,2387.97,4,Customer 122
+ORD-0603,2026-03-04,Outdoor,Eastern Cape,,8,Customer 123
+ORD-0604,2026-03-05,Outdoor,Eastern Cape,2407.11,2,Customer 124
+ORD-0605,2026-03-06,Electronics,Western Cape,1486.98,5,Customer 125
+ORD-0606,2026-03-07,Home & living,KwaZulu-Natal,907.22,8,Customer 126
+ORD-0607,2026-03-08,Outdoor,Gauteng,2800.30,5,Customer 127
+ORD-0608,2026-03-09,Fashion,Gauteng,3676.82,8,Customer 128
+ORD-0609,2026-03-10,Home & living,Eastern Cape,599.31,4,Customer 129
+ORD-0610,2026-03-11,Fashion,Gauteng,2224.75,6,Customer 130
+ORD-0611,2026-03-12,Electronics,Eastern Cape,4169.56,2,Customer 131
+ORD-0612,2026-03-13,Home & living,Western Cape,3914.09,6,Customer 132
+ORD-0613,2026-03-14,Outdoor,Western Cape,3003.59,4,Customer 133
+ORD-0614,2026-03-15,Home & living,Gauteng,2787.95,5,Customer 134
+ORD-0615,2026-03-16,Home & living,KwaZulu-Natal,4701.72,5,Customer 135
+ORD-0616,2026-03-17,Fashion,KwaZulu-Natal,4577.22,2,Customer 136
+ORD-0617,2026-03-18,Home & living,Eastern Cape,4419.84,5,Customer 137
+ORD-0618,2026-03-19,Home & living,Western Cape,1288.49,6,Customer 138
+ORD-0619,2026-03-20,Home & living,Eastern Cape,2410.67,5,Customer 139
+ORD-0620,2026-03-21,Outdoor,Eastern Cape,2235.32,2,Customer 140
+ORD-0621,2026-03-22,Outdoor,,3371.21,6,Customer 141
+ORD-0622,2026-03-23,Outdoor,Eastern Cape,1651.71,1,Customer 142
+ORD-0623,2026-03-24,Electronics,Eastern Cape,3091.05,6,Customer 143
+ORD-0624,2026-03-25,Electronics,Eastern Cape,1139.44,7,Customer 144
+ORD-0625,2026-03-26,Home & living,Eastern Cape,1376.75,5,Customer 145
+ORD-0626,2026-03-27,Fashion,Western Cape,2769.55,8,Customer 146
+ORD-0627,2026-03-28,Fashion,Gauteng,335.01,8,Customer 147
+ORD-0628,2026-03-29,Electronics,Gauteng,4469.75,3,Customer 148
+ORD-0629,2026-03-30,Outdoor,Eastern Cape,123.16,7,Customer 149
+ORD-0630,2026-03-31,Home & living,Western Cape,4248.45,5,Customer 150
+ORD-0631,2026-04-01,Home & living,KwaZulu-Natal,556.83,6,Customer 151
+ORD-0632,2026-04-02,Fashion,Gauteng,1860.23,3,Customer 152
+ORD-0633,2026-04-03,Electronics,Eastern Cape,3047.83,4,Customer 153
+ORD-0634,2026-04-04,Outdoor,Gauteng,3413.31,1,Customer 154
+ORD-0635,2026-04-05,Home & living,Eastern Cape,484.75,4,Customer 155
+ORD-0636,2026-04-06,Outdoor,Gauteng,157.73,6,Customer 156
+ORD-0638,2026-04-08,Electronics,Western Cape,1912.77,2,Customer 158
+ORD-0639,2026-04-09,Electronics,KwaZulu-Natal,1840.19,5,Customer 159
+ORD-0640,2026-04-10,Home & living,Eastern Cape,3739.80,3,Customer 160
+ORD-0641,2026-04-11,Home & living,Gauteng,2602.78,1,Customer 161
+ORD-0642,2026-04-12,Home & living,Eastern Cape,1763.56,4,Customer 162
+ORD-0643,2026-04-13,Home & living,Eastern Cape,3003.24,8,Customer 163
+ORD-0644,2026-04-14,Home & living,Gauteng,4316.05,3,Customer 164
+ORD-0645,2026-04-15,Electronics,Eastern Cape,1765.19,7,Customer 165
+ORD-0646,2026-04-16,Fashion,Western Cape,,2,Customer 166
+ORD-0647,2026-04-17,Home & living,KwaZulu-Natal,3765.58,1,Customer 167
+ORD-0648,2026-04-18,Fashion,Western Cape,2543.07,4,Customer 168
+ORD-0649,2026-04-19,Outdoor,KwaZulu-Natal,3144.07,4,Customer 169
+ORD-0650,2026-04-20,Outdoor,Eastern Cape,647.64,8,Customer 170
+ORD-0651,2026-04-21,Electronics,Gauteng,4738.61,6,Customer 171
+ORD-0652,2026-04-22,Home & living,,4148.61,7,Customer 172
+ORD-0653,2026-04-23,Fashion,Western Cape,3689.56,2,Customer 173
+ORD-0654,2026-04-24,Electronics,Gauteng,184.55,4,Customer 174
+ORD-0655,2026-04-25,Electronics,Gauteng,4559.82,7,Customer 175
+ORD-0656,2026-04-26,Fashion,Eastern Cape,2102.33,7,Customer 176
+ORD-0657,2026-04-27,Electronics,Western Cape,1418.55,5,Customer 177
+ORD-0658,2026-04-28,Electronics,Western Cape,4679.79,3,Customer 178
+ORD-0659,2026-04-29,Fashion,Eastern Cape,2864.53,2,Customer 179
+ORD-0660,2026-04-30,Fashion,Eastern Cape,3536.21,4,Customer 180
+ORD-0661,2026-05-01,Electronics,Western Cape,523.48,7,Customer 181
+ORD-0662,2026-05-02,Electronics,Eastern Cape,2985.55,1,Customer 182
+ORD-0663,2026-05-03,Fashion,Western Cape,678.99,3,Customer 183
+ORD-0664,2026-05-04,Electronics,Western Cape,2443.21,6,Customer 184
+ORD-0665,2026-05-05,Fashion,Western Cape,1860.35,5,Customer 185
+ORD-0666,2026-05-06,Electronics,Gauteng,1687.85,7,Customer 186
+ORD-0667,2026-05-07,Fashion,Gauteng,1350.60,2,Customer 187
+ORD-0668,2026-05-08,Outdoor,Eastern Cape,2510.46,1,Customer 188
+ORD-0669,2026-05-09,Outdoor,Western Cape,1840.78,5,Customer 189
+ORD-0670,2026-05-10,Electronics,Gauteng,1188.93,1,Customer 190
+ORD-0671,2026-05-11,Electronics,Gauteng,1264.50,8,Customer 191
+ORD-0672,2026-05-12,Fashion,Eastern Cape,4426.66,3,Customer 192
+ORD-0673,2026-05-13,Electronics,Eastern Cape,1170.73,4,Customer 193
+ORD-0674,2026-05-14,Outdoor,KwaZulu-Natal,1389.49,2,Customer 194
+ORD-0675,2026-05-15,Fashion,Gauteng,2469.55,1,Customer 195
+ORD-0676,2026-05-16,Home & living,Western Cape,3884.30,1,Customer 196
+ORD-0677,2026-05-17,Outdoor,Gauteng,4224.32,5,Customer 197
+ORD-0678,2026-05-18,Fashion,KwaZulu-Natal,524.28,8,Customer 198
+ORD-0679,2026-05-19,Electronics,KwaZulu-Natal,1059.14,5,Customer 199
+ORD-0680,2026-05-20,Home & living,Eastern Cape,98500,8,Customer 200
+ORD-0681,2026-05-21,Home & living,Western Cape,824.65,7,Customer 201
+ORD-0682,2026-05-22,Electronics,Western Cape,2654.43,1,Customer 202
+ORD-0683,2026-05-23,Fashion,,3671.79,7,Customer 203
+ORD-0684,2026-05-24,Fashion,Gauteng,1080.31,4,Customer 204
+ORD-0685,2026-05-25,Outdoor,Eastern Cape,4618.35,3,Customer 205
+ORD-0686,2026-05-26,Fashion,Gauteng,325.45,4,Customer 206
+ORD-0687,2026-05-27,Outdoor,KwaZulu-Natal,2265.58,2,Customer 207
+ORD-0688,2026-05-28,Electronics,Western Cape,3102.17,7,Customer 208
+ORD-0689,2026-05-29,Electronics,Gauteng,,3,Customer 209
+ORD-0691,2026-05-31,Outdoor,KwaZulu-Natal,1608.51,5,Customer 211
+ORD-0692,2026-06-01,Home & living,Gauteng,4535.84,3,Customer 212
+ORD-0693,2026-06-02,Electronics,Western Cape,614.48,8,Customer 213
+ORD-0694,2026-06-03,Outdoor,KwaZulu-Natal,2022.48,6,Customer 214
+ORD-0695,2026-06-04,Home & living,Eastern Cape,1562.88,5,Customer 215
+ORD-0696,2026-06-05,Electronics,Gauteng,857.64,5,Customer 216
+ORD-0697,2026-06-06,Electronics,Western Cape,4032.13,6,Customer 217
+ORD-0698,2026-06-07,Home & living,Gauteng,3448.22,6,Customer 218
+ORD-0699,2026-06-08,Outdoor,Gauteng,3289.22,5,Customer 219
+ORD-0700,2026-06-09,Home & living,Gauteng,4575.81,8,Customer 220
+ORD-0701,2026-06-10,Home & living,Gauteng,2282.36,3,Customer 221
+ORD-0702,2026-06-11,Electronics,Gauteng,408.61,4,Customer 222
+ORD-0703,2026-06-12,Home & living,Western Cape,3974.79,6,Customer 223
+ORD-0704,2026-06-13,Electronics,KwaZulu-Natal,4413.57,2,Customer 224
+ORD-0705,2026-06-14,Electronics,Gauteng,1045.47,8,Customer 225
+ORD-0706,2026-06-15,Home & living,Gauteng,4355.76,6,Customer 226
+ORD-0707,2026-06-16,Electronics,Gauteng,4529.87,1,Customer 227
+ORD-0708,2026-06-17,Home & living,Eastern Cape,3965.49,7,Customer 228
+ORD-0709,2026-06-18,Outdoor,Gauteng,1911.17,7,Customer 229
+ORD-0710,2026-06-19,Home & living,KwaZulu-Natal,1124.87,3,Customer 230
+ORD-0711,2026-06-20,Fashion,KwaZulu-Natal,2207.33,3,Customer 231
+ORD-0712,2026-06-21,Electronics,Western Cape,3149.26,8,Customer 232
+ORD-0713,2026-06-22,Outdoor,Eastern Cape,405.38,5,Customer 233
+ORD-0714,2026-06-23,Outdoor,,2082.02,4,Customer 234
+ORD-0715,2026-06-24,Electronics,Eastern Cape,3779.37,6,Customer 235
+ORD-0716,2026-06-25,Outdoor,Eastern Cape,1730.08,6,Customer 236
+ORD-0717,2026-06-26,Outdoor,KwaZulu-Natal,961.54,6,Customer 237
+ORD-0718,2026-06-27,Home & living,Gauteng,4312.18,5,Customer 238
+ORD-0719,2026-06-28,Electronics,Eastern Cape,2597.74,4,Customer 239
+ORD-0720,2026-06-29,Home & living,Gauteng,1279.97,4,Customer 240
+ORD-0721,2026-01-01,Fashion,Gauteng,3695.75,4,Customer 001
+ORD-0722,2026-01-02,Outdoor,KwaZulu-Natal,4496.76,3,Customer 002
+ORD-0723,2026-01-03,Home & living,Western Cape,2892.99,6,Customer 003
+ORD-0724,2026-01-04,Electronics,KwaZulu-Natal,4554.57,3,Customer 004
+ORD-0725,2026-01-05,Home & living,Eastern Cape,2657.14,3,Customer 005
+ORD-0726,2026-01-06,Outdoor,Gauteng,542.40,4,Customer 006
+ORD-0727,2026-01-07,Home & living,Gauteng,2583.78,1,Customer 007
+ORD-0728,2026-01-08,Fashion,Western Cape,3894.16,6,Customer 008
+ORD-0729,2026-01-09,Home & living,KwaZulu-Natal,398.72,3,Customer 009
+ORD-0730,2026-01-10,Home & living,Gauteng,4081.53,6,Customer 010
+ORD-0731,2026-01-11,Electronics,KwaZulu-Natal,3417.24,7,Customer 011
+ORD-0732,2026-01-12,Electronics,KwaZulu-Natal,,3,Customer 012
+ORD-0733,2026-01-13,Home & living,Eastern Cape,3825.82,8,Customer 013
+ORD-0734,2026-01-14,Fashion,Western Cape,3429.62,6,Customer 014
+ORD-0735,2026-01-15,Home & living,Western Cape,1890.84,5,Customer 015
+ORD-0736,2026-01-16,Home & living,Western Cape,3530.93,7,Customer 016
+ORD-0737,2026-01-17,Electronics,Western Cape,2939.18,4,Customer 017
+ORD-0738,2026-01-18,Electronics,Eastern Cape,778.21,2,Customer 018
+ORD-0739,2026-01-19,Home & living,KwaZulu-Natal,4717.54,3,Customer 019
+ORD-0740,2026-01-20,Electronics,KwaZulu-Natal,2210.23,5,Customer 020
+ORD-0741,2026-01-21,Home & living,Western Cape,3364.06,6,Customer 021
+ORD-0742,2026-01-22,Fashion,Gauteng,3491.54,1,Customer 022
+ORD-0744,2026-01-24,Outdoor,Eastern Cape,4246.69,6,Customer 024
+ORD-0745,2026-01-25,Outdoor,,3998.82,4,Customer 025
+ORD-0746,2026-01-26,Home & living,Eastern Cape,464.96,1,Customer 026
+ORD-0747,2026-01-27,Fashion,Gauteng,1611.60,2,Customer 027
+ORD-0748,2026-01-28,Electronics,KwaZulu-Natal,916.09,7,Customer 028
+ORD-0749,2026-01-29,Home & living,Gauteng,2680.18,2,Customer 029
+ORD-0750,2026-01-30,Fashion,Eastern Cape,3417.08,7,Customer 030
+ORD-0751,2026-01-31,Home & living,Eastern Cape,855.25,2,Customer 031
+ORD-0752,2026-02-01,Fashion,Western Cape,4680.18,7,Customer 032
+ORD-0753,2026-02-02,Fashion,KwaZulu-Natal,1511.84,2,Customer 033
+ORD-0754,2026-02-03,Electronics,Eastern Cape,2795.88,8,Customer 034
+ORD-0755,2026-02-04,Home & living,Gauteng,1808.68,7,Customer 035
+ORD-0756,2026-02-05,Electronics,KwaZulu-Natal,3975.84,8,Customer 036
+ORD-0757,2026-02-06,Home & living,Gauteng,240.44,3,Customer 037
+ORD-0758,2026-02-07,Fashion,Gauteng,2336.31,2,Customer 038
+ORD-0759,2026-02-08,Fashion,Eastern Cape,2324.02,5,Customer 039
+ORD-0760,2026-02-09,Electronics,Eastern Cape,985.24,7,Customer 040
+ORD-0761,2026-02-10,Fashion,Western Cape,2206.23,5,Customer 041
+ORD-0762,2026-02-11,Outdoor,Eastern Cape,1352.72,5,Customer 042
+ORD-0763,2026-02-12,Electronics,Western Cape,3640.46,2,Customer 043
+ORD-0764,2026-02-13,Electronics,KwaZulu-Natal,3902.28,7,Customer 044
+ORD-0765,2026-02-14,Home & living,Gauteng,4054.93,7,Customer 045
+ORD-0766,2026-02-15,Outdoor,Western Cape,2348.91,2,Customer 046
+ORD-0767,2026-02-16,Outdoor,Gauteng,2469.83,3,Customer 047
+ORD-0768,2026-02-17,Electronics,Eastern Cape,929.07,3,Customer 048
+ORD-0769,2026-02-18,Home & living,Western Cape,710.55,7,Customer 049
+ORD-0770,2026-02-19,Electronics,Eastern Cape,1064.98,3,Customer 050
+ORD-0771,2026-02-20,Fashion,KwaZulu-Natal,4382.56,2,Customer 051
+ORD-0772,2026-02-21,Electronics,Eastern Cape,2723.78,6,Customer 052
+ORD-0773,2026-02-22,Fashion,Eastern Cape,4412.32,1,Customer 053
+ORD-0774,2026-02-23,Outdoor,Gauteng,2059.59,3,Customer 054
+ORD-0775,2026-02-24,Electronics,Gauteng,,2,Customer 055
+ORD-0776,2026-02-25,Fashion,,4228.54,5,Customer 056
+ORD-0777,2026-02-26,Outdoor,Eastern Cape,98500,8,Customer 057
+ORD-0778,2026-02-27,Electronics,Western Cape,1408.94,3,Customer 058
+ORD-0779,2026-02-28,Outdoor,Gauteng,1972.31,6,Customer 059
+ORD-0780,2026-03-01,Home & living,Gauteng,3610.11,5,Customer 060
+ORD-0781,2026-03-02,Fashion,Gauteng,1701.21,5,Customer 061
+ORD-0782,2026-03-03,Fashion,KwaZulu-Natal,4064.52,2,Customer 062
+ORD-0783,2026-03-04,Home & living,Western Cape,1526.25,8,Customer 063
+ORD-0784,2026-03-05,Fashion,KwaZulu-Natal,3530.78,2,Customer 064
+ORD-0785,2026-03-06,Home & living,Eastern Cape,1109.31,7,Customer 065
+ORD-0786,2026-03-07,Outdoor,KwaZulu-Natal,3962.36,3,Customer 066
+ORD-0787,2026-03-08,Electronics,KwaZulu-Natal,3440.78,7,Customer 067
+ORD-0788,2026-03-09,Home & living,Gauteng,933.09,4,Customer 068
+ORD-0789,2026-03-10,Electronics,Western Cape,274.77,1,Customer 069
+ORD-0790,2026-03-11,Fashion,Western Cape,1402.21,8,Customer 070
+ORD-0791,2026-03-12,Outdoor,Gauteng,3307.90,4,Customer 071
+ORD-0792,2026-03-13,Fashion,Eastern Cape,2900.12,3,Customer 072
+ORD-0793,2026-03-14,Outdoor,KwaZulu-Natal,1731.09,5,Customer 073
+ORD-0794,2026-03-15,Electronics,KwaZulu-Natal,248.47,1,Customer 074
+ORD-0795,2026-03-16,Home & living,Western Cape,4131.28,4,Customer 075
+ORD-0797,2026-03-18,Electronics,Eastern Cape,4385.89,3,Customer 077
+ORD-0798,2026-03-19,Electronics,Western Cape,1301.19,5,Customer 078
+ORD-0799,2026-03-20,Fashion,Eastern Cape,4310.86,6,Customer 079
+ORD-0800,2026-03-21,Outdoor,KwaZulu-Natal,1141.22,5,Customer 080
+ORD-0801,2026-03-22,Outdoor,Gauteng,154.39,6,Customer 081
+ORD-0802,2026-03-23,Fashion,KwaZulu-Natal,3323.05,8,Customer 082
+ORD-0803,2026-03-24,Electronics,KwaZulu-Natal,4745.53,6,Customer 083
+ORD-0804,2026-03-25,Fashion,KwaZulu-Natal,3190.64,5,Customer 084
+ORD-0805,2026-03-26,Home & living,Western Cape,2540.93,4,Customer 085
+ORD-0806,2026-03-27,Electronics,Eastern Cape,3211.28,3,Customer 086
+ORD-0807,2026-03-28,Electronics,,4788.16,5,Customer 087
+ORD-0808,2026-03-29,Outdoor,Eastern Cape,1937.13,1,Customer 088
+ORD-0809,2026-03-30,Home & living,KwaZulu-Natal,3520.25,4,Customer 089
+ORD-0810,2026-03-31,Outdoor,KwaZulu-Natal,2494.23,3,Customer 090
+ORD-0811,2026-04-01,Home & living,KwaZulu-Natal,576.78,3,Customer 091
+ORD-0812,2026-04-02,Fashion,Western Cape,4551.60,6,Customer 092
+ORD-0813,2026-04-03,Electronics,Western Cape,1782.73,5,Customer 093
+ORD-0814,2026-04-04,Outdoor,KwaZulu-Natal,1859.47,5,Customer 094
+ORD-0815,2026-04-05,Outdoor,Gauteng,2322.11,2,Customer 095
+ORD-0816,2026-04-06,Outdoor,Western Cape,2462.23,7,Customer 096
+ORD-0817,2026-04-07,Fashion,Eastern Cape,373.01,3,Customer 097
+ORD-0818,2026-04-08,Home & living,Western Cape,,8,Customer 098
+ORD-0819,2026-04-09,Home & living,KwaZulu-Natal,4156.00,3,Customer 099
+ORD-0820,2026-04-10,Electronics,Eastern Cape,1676.71,3,Customer 100
+ORD-0821,2026-04-11,Fashion,Gauteng,142.06,5,Customer 101
+ORD-0822,2026-04-12,Home & living,Western Cape,2816.99,3,Customer 102
+ORD-0823,2026-04-13,Outdoor,Gauteng,725.62,7,Customer 103
+ORD-0824,2026-04-14,Outdoor,Eastern Cape,2127.84,8,Customer 104
+ORD-0825,2026-04-15,Outdoor,Gauteng,296.55,4,Customer 105
+ORD-0826,2026-04-16,Fashion,Gauteng,4294.59,4,Customer 106
+ORD-0827,2026-04-17,Electronics,Gauteng,3052.89,4,Customer 107
+ORD-0828,2026-04-18,Home & living,KwaZulu-Natal,1580.59,2,Customer 108
+ORD-0829,2026-04-19,Outdoor,KwaZulu-Natal,901.65,1,Customer 109
+ORD-0830,2026-04-20,Fashion,KwaZulu-Natal,2253.74,6,Customer 110
+ORD-0831,2026-04-21,Outdoor,Western Cape,1723.99,8,Customer 111
+ORD-0832,2026-04-22,Fashion,Western Cape,891.65,7,Customer 112
+ORD-0833,2026-04-23,Electronics,Western Cape,1169.82,3,Customer 113
+ORD-0834,2026-04-24,Home & living,Gauteng,2879.76,3,Customer 114
+ORD-0835,2026-04-25,Electronics,KwaZulu-Natal,3448.00,1,Customer 115
+ORD-0836,2026-04-26,Outdoor,KwaZulu-Natal,3729.45,1,Customer 116
+ORD-0837,2026-04-27,Electronics,Gauteng,3178.70,1,Customer 117
+ORD-0838,2026-04-28,Electronics,,2070.51,7,Customer 118
+ORD-0839,2026-04-29,Electronics,KwaZulu-Natal,2340.17,3,Customer 119
+ORD-0840,2026-04-30,Home & living,Gauteng,1529.23,2,Customer 120
+ORD-0841,2026-05-01,Fashion,Western Cape,2080.10,2,Customer 121
+ORD-0842,2026-05-02,Electronics,KwaZulu-Natal,653.58,2,Customer 122
+ORD-0843,2026-05-03,Outdoor,Western Cape,2970.13,5,Customer 123
+ORD-0844,2026-05-04,Home & living,KwaZulu-Natal,3412.08,5,Customer 124
+ORD-0845,2026-05-05,Home & living,Gauteng,2685.29,4,Customer 125
+ORD-0846,2026-05-06,Outdoor,KwaZulu-Natal,1217.48,1,Customer 126
+ORD-0847,2026-05-07,Electronics,Gauteng,4028.89,8,Customer 127
+ORD-0848,2026-05-08,Home & living,Gauteng,3768.18,2,Customer 128
+ORD-0850,2026-05-10,Fashion,KwaZulu-Natal,2292.82,2,Customer 130
+ORD-0851,2026-05-11,Home & living,Gauteng,4108.52,6,Customer 131
+ORD-0852,2026-05-12,Fashion,Eastern Cape,3576.37,2,Customer 132
+ORD-0853,2026-05-13,Electronics,Gauteng,4107.35,3,Customer 133
+ORD-0854,2026-05-14,Fashion,KwaZulu-Natal,4306.39,5,Customer 134
+ORD-0855,2026-05-15,Electronics,KwaZulu-Natal,3934.03,3,Customer 135
+ORD-0856,2026-05-16,Electronics,Eastern Cape,1993.17,8,Customer 136
+ORD-0857,2026-05-17,Fashion,Eastern Cape,3348.74,8,Customer 137
+ORD-0858,2026-05-18,Outdoor,Western Cape,649.10,1,Customer 138
+ORD-0859,2026-05-19,Home & living,Gauteng,2067.01,8,Customer 139
+ORD-0860,2026-05-20,Outdoor,Western Cape,2980.99,6,Customer 140
+ORD-0861,2026-05-21,Electronics,Western Cape,,8,Customer 141
+ORD-0862,2026-05-22,Electronics,Eastern Cape,2182.42,2,Customer 142
+ORD-0863,2026-05-23,Fashion,KwaZulu-Natal,177.85,4,Customer 143
+ORD-0864,2026-05-24,Fashion,Gauteng,2145.73,4,Customer 144
+ORD-0865,2026-05-25,Outdoor,KwaZulu-Natal,3226.17,7,Customer 145
+ORD-0866,2026-05-26,Home & living,Gauteng,174.50,3,Customer 146
+ORD-0867,2026-05-27,Outdoor,Eastern Cape,4188.87,2,Customer 147
+ORD-0868,2026-05-28,Outdoor,KwaZulu-Natal,1247.37,5,Customer 148
+ORD-0869,2026-05-29,Electronics,,2696.32,7,Customer 149
+ORD-0870,2026-05-30,Outdoor,Western Cape,488.93,8,Customer 150
+ORD-0871,2026-05-31,Outdoor,Gauteng,4128.84,8,Customer 151
+ORD-0872,2026-06-01,Fashion,Gauteng,4709.54,1,Customer 152
+ORD-0873,2026-06-02,Electronics,Eastern Cape,2049.74,1,Customer 153
+ORD-0874,2026-06-03,Electronics,KwaZulu-Natal,98500,4,Customer 154
+ORD-0875,2026-06-04,Outdoor,KwaZulu-Natal,1820.44,1,Customer 155
+ORD-0876,2026-06-05,Home & living,Eastern Cape,1673.63,8,Customer 156
+ORD-0877,2026-06-06,Fashion,Eastern Cape,653.63,4,Customer 157
+ORD-0878,2026-06-07,Electronics,KwaZulu-Natal,1782.05,5,Customer 158
+ORD-0879,2026-06-08,Fashion,Gauteng,334.24,3,Customer 159
+ORD-0880,2026-06-09,Outdoor,Western Cape,3966.20,7,Customer 160
+ORD-0881,2026-06-10,Electronics,KwaZulu-Natal,2978.79,4,Customer 161
+ORD-0882,2026-06-11,Electronics,Eastern Cape,1128.96,4,Customer 162
+ORD-0883,2026-06-12,Fashion,Gauteng,3663.46,1,Customer 163
+ORD-0884,2026-06-13,Electronics,Eastern Cape,2260.58,3,Customer 164
+ORD-0885,2026-06-14,Outdoor,Gauteng,2602.11,1,Customer 165
+ORD-0886,2026-06-15,Outdoor,Eastern Cape,4446.06,3,Customer 166
+ORD-0887,2026-06-16,Home & living,Western Cape,604.63,6,Customer 167
+ORD-0888,2026-06-17,Outdoor,Eastern Cape,4704.06,4,Customer 168
+ORD-0889,2026-06-18,Fashion,Eastern Cape,4629.62,5,Customer 169
+ORD-0890,2026-06-19,Outdoor,Western Cape,766.68,5,Customer 170
+ORD-0891,2026-06-20,Fashion,Western Cape,1060.16,5,Customer 171
+ORD-0892,2026-06-21,Fashion,Western Cape,4712.65,3,Customer 172
+ORD-0893,2026-06-22,Fashion,Gauteng,3680.43,8,Customer 173
+ORD-0894,2026-06-23,Outdoor,KwaZulu-Natal,4226.59,7,Customer 174
+ORD-0895,2026-06-24,Electronics,Gauteng,238.27,3,Customer 175
+ORD-0896,2026-06-25,Electronics,Gauteng,1055.54,3,Customer 176
+ORD-0897,2026-06-26,Fashion,KwaZulu-Natal,805.28,1,Customer 177
+ORD-0898,2026-06-27,Fashion,Western Cape,3646.82,1,Customer 178
+ORD-0899,2026-06-28,Fashion,Eastern Cape,599.61,4,Customer 179
+ORD-0900,2026-06-29,Outdoor,,2511.12,5,Customer 180
+ORD-0901,2026-01-01,Electronics,Eastern Cape,1933.76,6,Customer 181
+ORD-0903,2026-01-03,Outdoor,Western Cape,4385.76,6,Customer 183
+ORD-0904,2026-01-04,Home & living,Western Cape,,3,Customer 184
+ORD-0905,2026-01-05,Electronics,Western Cape,4624.38,2,Customer 185
+ORD-0906,2026-01-06,Outdoor,Gauteng,2125.42,5,Customer 186
+ORD-0907,2026-01-07,Home & living,Western Cape,2853.05,5,Customer 187
+ORD-0908,2026-01-08,Electronics,KwaZulu-Natal,2302.43,3,Customer 188
+ORD-0909,2026-01-09,Electronics,Western Cape,4465.98,1,Customer 189
+ORD-0910,2026-01-10,Fashion,Eastern Cape,3816.77,6,Customer 190
+ORD-0911,2026-01-11,Electronics,KwaZulu-Natal,2578.85,3,Customer 191
+ORD-0912,2026-01-12,Electronics,Western Cape,2066.56,7,Customer 192
+ORD-0913,2026-01-13,Electronics,KwaZulu-Natal,1155.21,4,Customer 193
+ORD-0914,2026-01-14,Fashion,KwaZulu-Natal,1808.53,4,Customer 194
+ORD-0915,2026-01-15,Outdoor,Gauteng,656.90,6,Customer 195
+ORD-0916,2026-01-16,Outdoor,Western Cape,4353.04,4,Customer 196
+ORD-0917,2026-01-17,Electronics,KwaZulu-Natal,1904.82,2,Customer 197
+ORD-0918,2026-01-18,Outdoor,KwaZulu-Natal,2648.31,5,Customer 198
+ORD-0919,2026-01-19,Electronics,KwaZulu-Natal,2526.97,8,Customer 199
+ORD-0920,2026-01-20,Outdoor,Gauteng,1507.31,4,Customer 200
+ORD-0921,2026-01-21,Fashion,Gauteng,4557.63,3,Customer 201
+ORD-0922,2026-01-22,Electronics,Gauteng,1106.46,4,Customer 202
+ORD-0923,2026-01-23,Outdoor,Gauteng,1082.11,7,Customer 203
+ORD-0924,2026-01-24,Electronics,Western Cape,231.16,6,Customer 204
+ORD-0925,2026-01-25,Electronics,Gauteng,462.80,3,Customer 205
+ORD-0926,2026-01-26,Fashion,Gauteng,2810.82,4,Customer 206
+ORD-0927,2026-01-27,Fashion,Eastern Cape,1935.99,7,Customer 207
+ORD-0928,2026-01-28,Outdoor,KwaZulu-Natal,199.05,2,Customer 208
+ORD-0929,2026-01-29,Electronics,Gauteng,3657.90,1,Customer 209
+ORD-0930,2026-01-30,Electronics,KwaZulu-Natal,4463.26,2,Customer 210
+ORD-0931,2026-01-31,Fashion,,2958.73,5,Customer 211
+ORD-0932,2026-02-01,Outdoor,Eastern Cape,1969.13,1,Customer 212
+ORD-0933,2026-02-02,Outdoor,Western Cape,2616.63,3,Customer 213
+ORD-0934,2026-02-03,Outdoor,KwaZulu-Natal,4613.43,3,Customer 214
+ORD-0935,2026-02-04,Fashion,KwaZulu-Natal,4600.59,1,Customer 215
+ORD-0936,2026-02-05,Home & living,Gauteng,315.50,7,Customer 216
+ORD-0937,2026-02-06,Electronics,KwaZulu-Natal,1103.05,6,Customer 217
+ORD-0938,2026-02-07,Home & living,Eastern Cape,4358.34,3,Customer 218
+ORD-0939,2026-02-08,Home & living,Western Cape,1153.29,5,Customer 219
+ORD-0940,2026-02-09,Home & living,Gauteng,968.76,1,Customer 220
+ORD-0941,2026-02-10,Outdoor,Gauteng,1480.25,2,Customer 221
+ORD-0942,2026-02-11,Fashion,Gauteng,1043.91,8,Customer 222
+ORD-0943,2026-02-12,Fashion,KwaZulu-Natal,720.05,4,Customer 223
+ORD-0944,2026-02-13,Electronics,KwaZulu-Natal,3019.33,4,Customer 224
+ORD-0945,2026-02-14,Fashion,Eastern Cape,2229.02,5,Customer 225
+ORD-0946,2026-02-15,Home & living,KwaZulu-Natal,3900.03,7,Customer 226
+ORD-0947,2026-02-16,Home & living,Gauteng,,4,Customer 227
+ORD-0948,2026-02-17,Outdoor,KwaZulu-Natal,4051.72,3,Customer 228
+ORD-0949,2026-02-18,Fashion,Eastern Cape,2286.13,6,Customer 229
+ORD-0950,2026-02-19,Fashion,Eastern Cape,2701.82,3,Customer 230
+ORD-0951,2026-02-20,Electronics,KwaZulu-Natal,4138.78,3,Customer 231
+ORD-0952,2026-02-21,Home & living,KwaZulu-Natal,3552.99,2,Customer 232
+ORD-0953,2026-02-22,Electronics,Gauteng,4096.07,1,Customer 233
+ORD-0954,2026-02-23,Outdoor,Western Cape,4361.50,5,Customer 234
+ORD-0956,2026-02-25,Fashion,Western Cape,2294.80,2,Customer 236
+ORD-0957,2026-02-26,Outdoor,KwaZulu-Natal,2470.14,4,Customer 237
+ORD-0958,2026-02-27,Home & living,Western Cape,2208.31,3,Customer 238
+ORD-0959,2026-02-28,Home & living,Eastern Cape,4515.34,1,Customer 239
+ORD-0960,2026-03-01,Home & living,Eastern Cape,1204.59,5,Customer 240
+ORD-0961,2026-03-02,Fashion,Western Cape,320.34,4,Customer 001
+ORD-0962,2026-03-03,Fashion,,2318.08,8,Customer 002
+ORD-0963,2026-03-04,Electronics,Gauteng,4709.16,6,Customer 003
+ORD-0964,2026-03-05,Electronics,KwaZulu-Natal,4027.20,5,Customer 004
+ORD-0965,2026-03-06,Home & living,Eastern Cape,3179.20,6,Customer 005
+ORD-0966,2026-03-07,Electronics,KwaZulu-Natal,1881.22,4,Customer 006
+ORD-0967,2026-03-08,Outdoor,KwaZulu-Natal,3944.67,6,Customer 007
+ORD-0968,2026-03-09,Outdoor,Eastern Cape,4271.96,1,Customer 008
+ORD-0969,2026-03-10,Home & living,Eastern Cape,895.04,2,Customer 009
+ORD-0970,2026-03-11,Fashion,Western Cape,823.13,3,Customer 010
+ORD-0971,2026-03-12,Fashion,Gauteng,98500,7,Customer 011
+ORD-0972,2026-03-13,Fashion,Gauteng,2373.50,8,Customer 012
+ORD-0973,2026-03-14,Outdoor,Western Cape,2884.90,7,Customer 013
+ORD-0974,2026-03-15,Electronics,Western Cape,321.92,3,Customer 014
+ORD-0975,2026-03-16,Home & living,Gauteng,4288.93,3,Customer 015
+ORD-0976,2026-03-17,Electronics,Western Cape,1328.66,3,Customer 016
+ORD-0977,2026-03-18,Outdoor,Gauteng,4231.42,5,Customer 017
+ORD-0978,2026-03-19,Electronics,Western Cape,2222.27,8,Customer 018
+ORD-0979,2026-03-20,Outdoor,Western Cape,1146.62,7,Customer 019
+ORD-0980,2026-03-21,Home & living,Western Cape,3036.63,5,Customer 020
+ORD-0981,2026-03-22,Home & living,KwaZulu-Natal,4436.61,2,Customer 021
+ORD-0982,2026-03-23,Home & living,Eastern Cape,1923.96,2,Customer 022
+ORD-0983,2026-03-24,Electronics,Western Cape,2566.29,7,Customer 023
+ORD-0984,2026-03-25,Home & living,Gauteng,950.34,1,Customer 024
+ORD-0985,2026-03-26,Electronics,Gauteng,2376.89,3,Customer 025
+ORD-0986,2026-03-27,Electronics,Eastern Cape,2563.17,6,Customer 026
+ORD-0987,2026-03-28,Electronics,Eastern Cape,1194.00,8,Customer 027
+ORD-0988,2026-03-29,Outdoor,KwaZulu-Natal,2876.75,2,Customer 028
+ORD-0989,2026-03-30,Outdoor,Western Cape,1311.14,4,Customer 029
+ORD-0990,2026-03-31,Electronics,KwaZulu-Natal,,7,Customer 030
+ORD-0991,2026-04-01,Fashion,Western Cape,145.60,1,Customer 031
+ORD-0992,2026-04-02,Electronics,Gauteng,1875.14,4,Customer 032
+ORD-0993,2026-04-03,Fashion,,1815.42,3,Customer 033
+ORD-0994,2026-04-04,Outdoor,KwaZulu-Natal,1342.90,7,Customer 034
+ORD-0995,2026-04-05,Fashion,KwaZulu-Natal,4761.62,7,Customer 035
+ORD-0996,2026-04-06,Home & living,Eastern Cape,2703.85,8,Customer 036
+ORD-0997,2026-04-07,Home & living,KwaZulu-Natal,2736.56,8,Customer 037
+ORD-0998,2026-04-08,Fashion,KwaZulu-Natal,2823.41,7,Customer 038
+ORD-0999,2026-04-09,Home & living,Gauteng,3619.77,8,Customer 039
+ORD-1000,2026-04-10,Home & living,Gauteng,1123.66,7,Customer 040
+ORD-1001,2026-04-11,Fashion,Gauteng,872.25,1,Customer 041
+ORD-1002,2026-04-12,Electronics,Western Cape,2327.41,7,Customer 042
+ORD-1003,2026-04-13,Electronics,Gauteng,1351.27,6,Customer 043
+ORD-1004,2026-04-14,Electronics,Gauteng,3510.64,7,Customer 044
+ORD-1005,2026-04-15,Fashion,Gauteng,4545.95,3,Customer 045
+ORD-1006,2026-04-16,Outdoor,Eastern Cape,170.12,5,Customer 046
+ORD-1007,2026-04-17,Home & living,Gauteng,3788.93,4,Customer 047
+ORD-1009,2026-04-19,Home & living,Gauteng,4785.10,7,Customer 049
+ORD-1010,2026-04-20,Fashion,Eastern Cape,2017.51,4,Customer 050
+ORD-1011,2026-04-21,Electronics,Gauteng,4421.75,5,Customer 051
+ORD-1012,2026-04-22,Fashion,KwaZulu-Natal,4628.19,5,Customer 052
+ORD-1013,2026-04-23,Home & living,Western Cape,2248.27,7,Customer 053
+ORD-1014,2026-04-24,Electronics,KwaZulu-Natal,939.16,2,Customer 054
+ORD-1015,2026-04-25,Electronics,KwaZulu-Natal,1711.04,2,Customer 055
+ORD-1016,2026-04-26,Fashion,KwaZulu-Natal,3368.82,7,Customer 056
+ORD-1017,2026-04-27,Outdoor,Western Cape,3664.97,8,Customer 057
+ORD-1018,2026-04-28,Outdoor,Gauteng,2375.62,5,Customer 058
+ORD-1019,2026-04-29,Electronics,Eastern Cape,3085.54,4,Customer 059
+ORD-1020,2026-04-30,Home & living,KwaZulu-Natal,2050.15,6,Customer 060
+ORD-1021,2026-05-01,Electronics,KwaZulu-Natal,1281.85,2,Customer 061
+ORD-1022,2026-05-02,Outdoor,KwaZulu-Natal,475.81,3,Customer 062
+ORD-1023,2026-05-03,Outdoor,KwaZulu-Natal,1774.56,5,Customer 063
+ORD-1024,2026-05-04,Home & living,,2455.32,4,Customer 064
+ORD-1025,2026-05-05,Home & living,Western Cape,4204.43,4,Customer 065
+ORD-1026,2026-05-06,Home & living,Western Cape,4027.52,6,Customer 066
+ORD-1027,2026-05-07,Home & living,Gauteng,681.03,2,Customer 067
+ORD-1028,2026-05-08,Outdoor,Gauteng,3696.66,1,Customer 068
+ORD-1029,2026-05-09,Outdoor,KwaZulu-Natal,3024.72,8,Customer 069
+ORD-1030,2026-05-10,Fashion,Eastern Cape,975.84,5,Customer 070
+ORD-1031,2026-05-11,Outdoor,Western Cape,3630.79,3,Customer 071
+ORD-1032,2026-05-12,Electronics,Eastern Cape,2358.54,1,Customer 072
+ORD-1033,2026-05-13,Fashion,Eastern Cape,,3,Customer 073
+ORD-1034,2026-05-14,Outdoor,Gauteng,3387.78,8,Customer 074
+ORD-1035,2026-05-15,Fashion,Gauteng,175.32,4,Customer 075
+ORD-1036,2026-05-16,Outdoor,Gauteng,1643.04,5,Customer 076
+ORD-1037,2026-05-17,Home & living,KwaZulu-Natal,1229.81,8,Customer 077
+ORD-1038,2026-05-18,Fashion,KwaZulu-Natal,980.72,7,Customer 078
+ORD-1039,2026-05-19,Home & living,Eastern Cape,3399.34,6,Customer 079
+ORD-1040,2026-05-20,Fashion,Eastern Cape,1428.67,3,Customer 080
+ORD-1041,2026-05-21,Home & living,Western Cape,3930.41,5,Customer 081
+ORD-1042,2026-05-22,Home & living,Eastern Cape,4127.52,4,Customer 082
+ORD-1043,2026-05-23,Home & living,Western Cape,2333.58,1,Customer 083
+ORD-1044,2026-05-24,Home & living,Eastern Cape,2458.12,6,Customer 084
+ORD-1045,2026-05-25,Outdoor,KwaZulu-Natal,1294.56,1,Customer 085
+ORD-1046,2026-05-26,Outdoor,Gauteng,3351.74,1,Customer 086
+ORD-1047,2026-05-27,Home & living,KwaZulu-Natal,2350.20,2,Customer 087
+ORD-1048,2026-05-28,Outdoor,KwaZulu-Natal,1335.72,6,Customer 088
+ORD-1049,2026-05-29,Fashion,KwaZulu-Natal,212.83,2,Customer 089
+ORD-1050,2026-05-30,Fashion,Western Cape,2819.68,3,Customer 090
+ORD-1051,2026-05-31,Fashion,KwaZulu-Natal,1641.42,8,Customer 091
+ORD-1052,2026-06-01,Outdoor,Gauteng,1903.41,5,Customer 092
+ORD-1053,2026-06-02,Outdoor,Western Cape,4183.45,6,Customer 093
+ORD-1054,2026-06-03,Outdoor,Eastern Cape,4092.86,2,Customer 094
+ORD-1055,2026-06-04,Electronics,,1728.17,6,Customer 095
+ORD-1056,2026-06-05,Fashion,KwaZulu-Natal,3444.83,7,Customer 096
+ORD-1057,2026-06-06,Fashion,Eastern Cape,3774.96,6,Customer 097
+ORD-1058,2026-06-07,Outdoor,Eastern Cape,903.05,1,Customer 098
+ORD-1059,2026-06-08,Home & living,Western Cape,3218.27,2,Customer 099
+ORD-1060,2026-06-09,Home & living,Western Cape,1978.17,2,Customer 100
+ORD-1062,2026-06-11,Outdoor,Gauteng,606.38,3,Customer 102
+ORD-1063,2026-06-12,Electronics,Eastern Cape,1567.85,4,Customer 103
+ORD-1064,2026-06-13,Fashion,Eastern Cape,3051.93,3,Customer 104
+ORD-1065,2026-06-14,Home & living,Gauteng,284.53,6,Customer 105
+ORD-1066,2026-06-15,Fashion,Eastern Cape,2306.47,5,Customer 106
+ORD-1067,2026-06-16,Outdoor,Western Cape,4657.46,3,Customer 107
+ORD-1068,2026-06-17,Outdoor,Eastern Cape,98500,5,Customer 108
+ORD-1069,2026-06-18,Fashion,Eastern Cape,2645.65,2,Customer 109
+ORD-1070,2026-06-19,Outdoor,KwaZulu-Natal,1831.87,5,Customer 110
+ORD-1071,2026-06-20,Home & living,KwaZulu-Natal,169.40,3,Customer 111
+ORD-1072,2026-06-21,Fashion,KwaZulu-Natal,2315.85,1,Customer 112
+ORD-1073,2026-06-22,Outdoor,Eastern Cape,1522.18,7,Customer 113
+ORD-1074,2026-06-23,Fashion,Western Cape,3848.87,6,Customer 114
+ORD-1075,2026-06-24,Home & living,Eastern Cape,4248.52,7,Customer 115
+ORD-1076,2026-06-25,Outdoor,Western Cape,,7,Customer 116
+ORD-1077,2026-06-26,Outdoor,Western Cape,1350.75,7,Customer 117
+ORD-1078,2026-06-27,Home & living,KwaZulu-Natal,1452.29,5,Customer 118
+ORD-1079,2026-06-28,Outdoor,Western Cape,4114.30,3,Customer 119
+ORD-1080,2026-06-29,Home & living,KwaZulu-Natal,636.47,8,Customer 120
+ORD-1081,2026-01-01,Outdoor,KwaZulu-Natal,3398.21,8,Customer 121
+ORD-1082,2026-01-02,Home & living,KwaZulu-Natal,210.77,1,Customer 122
+ORD-1083,2026-01-03,Electronics,Western Cape,4670.52,5,Customer 123
+ORD-1084,2026-01-04,Fashion,Western Cape,3467.12,1,Customer 124
+ORD-1085,2026-01-05,Home & living,Gauteng,825.20,8,Customer 125
+ORD-1086,2026-01-06,Home & living,,2086.74,8,Customer 126
+ORD-1087,2026-01-07,Fashion,Eastern Cape,3381.65,1,Customer 127
+ORD-1088,2026-01-08,Fashion,Gauteng,4067.80,3,Customer 128
+ORD-1089,2026-01-09,Electronics,KwaZulu-Natal,3750.06,2,Customer 129
+ORD-1090,2026-01-10,Outdoor,Western Cape,1019.46,5,Customer 130
+ORD-1091,2026-01-11,Outdoor,Gauteng,690.78,4,Customer 131
+ORD-1092,2026-01-12,Outdoor,Eastern Cape,1276.72,1,Customer 132
+ORD-1093,2026-01-13,Home & living,Eastern Cape,3561.31,2,Customer 133
+ORD-1094,2026-01-14,Home & living,Eastern Cape,1941.10,5,Customer 134
+ORD-1095,2026-01-15,Fashion,Western Cape,3064.49,1,Customer 135
+ORD-1096,2026-01-16,Electronics,KwaZulu-Natal,2372.15,5,Customer 136
+ORD-1097,2026-01-17,Home & living,KwaZulu-Natal,4273.59,4,Customer 137
+ORD-1098,2026-01-18,Electronics,Western Cape,3082.01,6,Customer 138
+ORD-1099,2026-01-19,Electronics,Western Cape,3837.75,2,Customer 139
+ORD-1100,2026-01-20,Outdoor,Western Cape,161.79,1,Customer 140
+ORD-1101,2026-01-21,Outdoor,Western Cape,1858.15,2,Customer 141
+ORD-1102,2026-01-22,Home & living,Western Cape,2459.62,6,Customer 142
+ORD-1103,2026-01-23,Electronics,Gauteng,1783.82,3,Customer 143
+ORD-1104,2026-01-24,Electronics,Western Cape,2403.10,6,Customer 144
+ORD-1105,2026-01-25,Fashion,Eastern Cape,3551.32,1,Customer 145
+ORD-1106,2026-01-26,Outdoor,KwaZulu-Natal,3510.19,5,Customer 146
+ORD-1107,2026-01-27,Electronics,Eastern Cape,3427.01,5,Customer 147
+ORD-1108,2026-01-28,Outdoor,Western Cape,2772.16,6,Customer 148
+ORD-1109,2026-01-29,Fashion,Eastern Cape,1408.52,3,Customer 149
+ORD-1110,2026-01-30,Electronics,Western Cape,2223.12,5,Customer 150
+ORD-1111,2026-01-31,Fashion,Eastern Cape,123.37,7,Customer 151
+ORD-1112,2026-02-01,Home & living,Gauteng,3020.36,6,Customer 152
+ORD-1113,2026-02-02,Home & living,KwaZulu-Natal,3494.30,7,Customer 153
+ORD-1115,2026-02-04,Fashion,KwaZulu-Natal,2037.89,6,Customer 155
+ORD-1116,2026-02-05,Electronics,Gauteng,2568.58,2,Customer 156
+ORD-1117,2026-02-06,Electronics,,956.03,1,Customer 157
+ORD-1118,2026-02-07,Home & living,Gauteng,2391.53,2,Customer 158
+ORD-1119,2026-02-08,Electronics,Eastern Cape,,5,Customer 159
+ORD-1120,2026-02-09,Electronics,KwaZulu-Natal,1152.98,2,Customer 160
+ORD-1121,2026-02-10,Electronics,Western Cape,3188.91,2,Customer 161
+ORD-1122,2026-02-11,Outdoor,Gauteng,1809.13,7,Customer 162
+ORD-1123,2026-02-12,Fashion,Gauteng,3974.65,5,Customer 163
+ORD-1124,2026-02-13,Electronics,Gauteng,4025.26,2,Customer 164
+ORD-1125,2026-02-14,Home & living,Gauteng,593.73,4,Customer 165
+ORD-1126,2026-02-15,Outdoor,Western Cape,1023.80,4,Customer 166
+ORD-1127,2026-02-16,Home & living,Eastern Cape,3611.79,6,Customer 167
+ORD-1128,2026-02-17,Outdoor,Eastern Cape,4251.62,3,Customer 168
+ORD-1129,2026-02-18,Home & living,Eastern Cape,2481.96,3,Customer 169
+ORD-1130,2026-02-19,Outdoor,KwaZulu-Natal,4343.63,6,Customer 170
+ORD-1131,2026-02-20,Fashion,Eastern Cape,3696.38,7,Customer 171
+ORD-1132,2026-02-21,Fashion,Western Cape,2755.52,4,Customer 172
+ORD-1133,2026-02-22,Outdoor,KwaZulu-Natal,1804.84,8,Customer 173
+ORD-1134,2026-02-23,Outdoor,Eastern Cape,120.92,1,Customer 174
+ORD-1135,2026-02-24,Fashion,Gauteng,2542.41,5,Customer 175
+ORD-1136,2026-02-25,Electronics,KwaZulu-Natal,4726.97,4,Customer 176
+ORD-1137,2026-02-26,Fashion,Gauteng,3730.73,5,Customer 177
+ORD-1138,2026-02-27,Home & living,Gauteng,296.61,6,Customer 178
+ORD-1139,2026-02-28,Home & living,Western Cape,1360.14,4,Customer 179
+ORD-1140,2026-03-01,Home & living,KwaZulu-Natal,3915.83,2,Customer 180
+ORD-1141,2026-03-02,Outdoor,Western Cape,3556.36,6,Customer 181
+ORD-1142,2026-03-03,Outdoor,Western Cape,2405.13,2,Customer 182
+ORD-1143,2026-03-04,Fashion,Gauteng,3540.09,7,Customer 183
+ORD-1144,2026-03-05,Electronics,Gauteng,4434.36,6,Customer 184
+ORD-1145,2026-03-06,Fashion,Eastern Cape,2069.32,2,Customer 185
+ORD-1146,2026-03-07,Home & living,Gauteng,3086.59,7,Customer 186
+ORD-1147,2026-03-08,Electronics,KwaZulu-Natal,2574.11,6,Customer 187
+ORD-1148,2026-03-09,Home & living,,2471.24,4,Customer 188
+ORD-1149,2026-03-10,Home & living,Gauteng,3272.61,7,Customer 189
+ORD-1150,2026-03-11,Outdoor,Gauteng,1159.36,5,Customer 190
+ORD-1151,2026-03-12,Outdoor,Western Cape,738.64,2,Customer 191
+ORD-1152,2026-03-13,Outdoor,Gauteng,2685.35,5,Customer 192
+ORD-1153,2026-03-14,Electronics,Eastern Cape,2468.53,3,Customer 193
+ORD-1154,2026-03-15,Home & living,Eastern Cape,2737.51,8,Customer 194
+ORD-1155,2026-03-16,Outdoor,Western Cape,2746.26,4,Customer 195
+ORD-1156,2026-03-17,Home & living,Gauteng,1366.08,7,Customer 196
+ORD-1157,2026-03-18,Fashion,Gauteng,646.64,7,Customer 197
+ORD-1158,2026-03-19,Outdoor,KwaZulu-Natal,1750.08,6,Customer 198
+ORD-1159,2026-03-20,Fashion,Gauteng,3722.11,3,Customer 199
+ORD-1160,2026-03-21,Fashion,Eastern Cape,3036.49,8,Customer 200
+ORD-1161,2026-03-22,Electronics,Western Cape,1054.53,6,Customer 201
+ORD-1162,2026-03-23,Home & living,Gauteng,,1,Customer 202
+ORD-1163,2026-03-24,Home & living,Western Cape,4185.76,5,Customer 203
+ORD-1164,2026-03-25,Electronics,KwaZulu-Natal,3366.96,2,Customer 204
+ORD-1165,2026-03-26,Fashion,Eastern Cape,98500,6,Customer 205
+ORD-1166,2026-03-27,Home & living,Western Cape,1073.79,5,Customer 206
+ORD-1168,2026-03-29,Outdoor,Gauteng,1315.54,1,Customer 208
+ORD-1169,2026-03-30,Fashion,Western Cape,3813.40,5,Customer 209
+ORD-1170,2026-03-31,Electronics,Eastern Cape,3184.27,1,Customer 210
+ORD-1171,2026-04-01,Electronics,Eastern Cape,3210.54,6,Customer 211
+ORD-1172,2026-04-02,Electronics,Gauteng,1488.88,7,Customer 212
+ORD-1173,2026-04-03,Home & living,Eastern Cape,2499.97,2,Customer 213
+ORD-1174,2026-04-04,Fashion,Eastern Cape,4176.50,2,Customer 214
+ORD-1175,2026-04-05,Home & living,Western Cape,2463.05,8,Customer 215
+ORD-1176,2026-04-06,Electronics,Gauteng,1277.80,5,Customer 216
+ORD-1177,2026-04-07,Fashion,Eastern Cape,1961.11,3,Customer 217
+ORD-1178,2026-04-08,Electronics,KwaZulu-Natal,3322.58,6,Customer 218
+ORD-1179,2026-04-09,Fashion,,4781.25,5,Customer 219
+ORD-1180,2026-04-10,Electronics,KwaZulu-Natal,4232.21,1,Customer 220
+ORD-1181,2026-04-11,Fashion,Western Cape,829.99,7,Customer 221
+ORD-1182,2026-04-12,Home & living,Gauteng,3535.88,4,Customer 222
+ORD-1183,2026-04-13,Outdoor,Western Cape,2801.17,7,Customer 223
+ORD-1184,2026-04-14,Fashion,KwaZulu-Natal,2222.11,3,Customer 224
+ORD-1185,2026-04-15,Home & living,Western Cape,2839.22,4,Customer 225
+ORD-1186,2026-04-16,Home & living,KwaZulu-Natal,3342.33,3,Customer 226
+ORD-1187,2026-04-17,Outdoor,Western Cape,3191.16,3,Customer 227
+ORD-1188,2026-04-18,Fashion,Gauteng,2728.35,2,Customer 228
+ORD-1189,2026-04-19,Home & living,KwaZulu-Natal,4048.97,3,Customer 229
+ORD-1190,2026-04-20,Electronics,KwaZulu-Natal,4239.02,7,Customer 230
+ORD-1191,2026-04-21,Outdoor,KwaZulu-Natal,2193.26,5,Customer 231
+ORD-1192,2026-04-22,Home & living,Western Cape,619.69,3,Customer 232
+ORD-1193,2026-04-23,Electronics,KwaZulu-Natal,2954.23,4,Customer 233
+ORD-1194,2026-04-24,Home & living,Western Cape,3336.93,6,Customer 234
+ORD-1195,2026-04-25,Electronics,Eastern Cape,747.53,8,Customer 235
+ORD-1196,2026-04-26,Fashion,Western Cape,4107.97,8,Customer 236
+ORD-1197,2026-04-27,Outdoor,Western Cape,886.52,4,Customer 237
+ORD-1198,2026-04-28,Electronics,Eastern Cape,3698.04,1,Customer 238
+ORD-1199,2026-04-29,Fashion,Eastern Cape,1161.55,4,Customer 239
+ORD-1200,2026-04-30,Home & living,Gauteng,948.73,8,Customer 240
